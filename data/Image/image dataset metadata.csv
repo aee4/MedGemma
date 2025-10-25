@@ -1,0 +1,1711 @@
+Folder_name,Patient_id,Image_id,Age,Sex,Leision_location,Diagnosis
+Atopic Dermatitis (AD),P_001,AD (1),14,Female,Hand,Atopic Dermatitis
+Atopic Dermatitis (AD),P_001,AD (2),14,Female,Hand,Atopic Dermatitis
+Atopic Dermatitis (AD),P_001,AD (3),14,Female,Finger,Atopic Dermatitis
+Atopic Dermatitis (AD),P_001,AD (4),14,Female,Finger,Atopic Dermatitis
+Atopic Dermatitis (AD),P_001,AD (5),14,Female,Hand,Atopic Dermatitis
+Atopic Dermatitis (AD),P_002,AD (6),2.1,Male,Arm,Atopic Dermatitis
+Atopic Dermatitis (AD),P_002,AD (7),2.1,Male,Arm,Atopic Dermatitis
+Atopic Dermatitis (AD),P_003,AD (8),23,Female,Arm,Atopic Dermatitis
+Atopic Dermatitis (AD),P_003,AD (9),23,Female,Arm,Atopic Dermatitis
+Atopic Dermatitis (AD),P_003,AD (10),23,Female,Arm,Atopic Dermatitis
+Atopic Dermatitis (AD),P_004,AD (11),1,Female,Leg,Atopic Dermatitis
+Atopic Dermatitis (AD),P_004,AD (12),1,Female,Leg,Atopic Dermatitis
+Atopic Dermatitis (AD),P_004,AD (13),1,Female,Leg,Atopic Dermatitis
+Atopic Dermatitis (AD),P_004,AD (14),1,Female,Leg,Atopic Dermatitis
+Atopic Dermatitis (AD),P_005,AD (15),8,Female,Leg,Atopic Dermatitis
+Atopic Dermatitis (AD),P_005,AD (16),8,Female,Leg,Atopic Dermatitis
+Atopic Dermatitis (AD),P_005,AD (17),8,Female,Arm & Forearm,Atopic Dermatitis
+Atopic Dermatitis (AD),P_005,AD (18),8,Female,Arm & Forearm,Atopic Dermatitis
+Atopic Dermatitis (AD),P_005,AD (19),8,Female,Arm & Forearm,Atopic Dermatitis
+Atopic Dermatitis (AD),P_005,AD (20),8,Female,Arm & Forearm,Atopic Dermatitis
+Atopic Dermatitis (AD),P_005,AD (21),8,Female,Arm & Forearm,Atopic Dermatitis
+Atopic Dermatitis (AD),P_006,AD (22),9,Male,Leg,Atopic Dermatitis
+Atopic Dermatitis (AD),P_006,AD (23),9,Male,Leg,Atopic Dermatitis
+Atopic Dermatitis (AD),P_006,AD (24),9,Male,Leg,Atopic Dermatitis
+Atopic Dermatitis (AD),P_006,AD (25),9,Male,Leg,Atopic Dermatitis
+Atopic Dermatitis (AD),P_007,AD (26),0.4,Male,Face,Atopic Dermatitis
+Atopic Dermatitis (AD),P_008,AD (27),32,Female,Forehead,Atopic Dermatitis
+Atopic Dermatitis (AD),P_008,AD (28),32,Female,Forehead,Atopic Dermatitis
+Atopic Dermatitis (AD),P_009,AD (29),1.5,Male,Arm,Atopic Dermatitis
+Atopic Dermatitis (AD),P_010,AD (30),2.5,Male,Palm,Atopic Dermatitis
+Atopic Dermatitis (AD),P_010,AD (31),2.5,Male,Palm,Atopic Dermatitis
+Atopic Dermatitis (AD),P_010,AD (32),2.5,Male,Palm,Atopic Dermatitis
+Atopic Dermatitis (AD),P_010,AD (33),2.5,Male,Palm,Atopic Dermatitis
+Atopic Dermatitis (AD),P_010,AD (34),2.5,Male,Back,Atopic Dermatitis
+Atopic Dermatitis (AD),P_010,AD (35),2.5,Male,Face,Atopic Dermatitis
+Atopic Dermatitis (AD),P_010,AD (36),2.5,Male,Face,Atopic Dermatitis
+Atopic Dermatitis (AD),P_011,AD (37),42,Female,Leg,Atopic Dermatitis
+Atopic Dermatitis (AD),P_011,AD (38),42,Female,Leg,Atopic Dermatitis
+Atopic Dermatitis (AD),P_011,AD (39),42,Female,Leg,Atopic Dermatitis
+Atopic Dermatitis (AD),P_011,AD (40),42,Female,Leg,Atopic Dermatitis
+Atopic Dermatitis (AD),P_011,AD (41),42,Female,Leg,Atopic Dermatitis
+Atopic Dermatitis (AD),P_011,AD (42),42,Female,Leg,Atopic Dermatitis
+Atopic Dermatitis (AD),P_011,AD (43),42,Female,Leg,Atopic Dermatitis
+Atopic Dermatitis (AD),P_011,AD (44),42,Female,Leg,Atopic Dermatitis
+Atopic Dermatitis (AD),P_012,AD (45),30,Female,Arm,Atopic Dermatitis
+Atopic Dermatitis (AD),P_012,AD (46),30,Female,Arm,Atopic Dermatitis
+Atopic Dermatitis (AD),P_012,AD (47),30,Female,Arm,Atopic Dermatitis
+Atopic Dermatitis (AD),P_012,AD (48),30,Female,Forearm,Atopic Dermatitis
+Atopic Dermatitis (AD),P_012,AD (49),30,Female,Forearm,Atopic Dermatitis
+Atopic Dermatitis (AD),P_012,AD (50),30,Female,Forearm,Atopic Dermatitis
+Atopic Dermatitis (AD),P_012,AD (51),30,Female,Forearm,Atopic Dermatitis
+Atopic Dermatitis (AD),P_012,AD (52),30,Female,Forearm,Atopic Dermatitis
+Atopic Dermatitis (AD),P_012,AD (53),30,Female,Forearm,Atopic Dermatitis
+Atopic Dermatitis (AD),P_012,AD (54),30,Female,Forearm,Atopic Dermatitis
+Atopic Dermatitis (AD),P_012,AD (55),30,Female,Forearm,Atopic Dermatitis
+Atopic Dermatitis (AD),P_012,AD (56),30,Female,Forearm,Atopic Dermatitis
+Atopic Dermatitis (AD),P_013,AD (57),11,Male,Forearm,Atopic Dermatitis
+Atopic Dermatitis (AD),P_013,AD (58),11,Male,Forearm,Atopic Dermatitis
+Atopic Dermatitis (AD),P_013,AD (59),11,Male,Hand,Atopic Dermatitis
+Atopic Dermatitis (AD),P_013,AD (60),11,Male,Arm,Atopic Dermatitis
+Atopic Dermatitis (AD),P_013,AD (61),11,Male,Arm,Atopic Dermatitis
+Atopic Dermatitis (AD),P_014,AD (62),30,Female,Forearm,Atopic Dermatitis
+Atopic Dermatitis (AD),P_014,AD (63),30,Female,Forearm,Atopic Dermatitis
+Atopic Dermatitis (AD),P_014,AD (64),30,Female,Forearm,Atopic Dermatitis
+Atopic Dermatitis (AD),P_014,AD (65),30,Female,Forearm,Atopic Dermatitis
+Atopic Dermatitis (AD),P_014,AD (66),30,Female,Forearm,Atopic Dermatitis
+Atopic Dermatitis (AD),P_014,AD (67),30,Female,Forearm,Atopic Dermatitis
+Atopic Dermatitis (AD),P_015,AD (68),2,Male,Leg,Atopic Dermatitis
+Atopic Dermatitis (AD),P_015,AD (69),2,Male,Leg,Atopic Dermatitis
+Atopic Dermatitis (AD),P_015,AD (70),2,Male,Leg,Atopic Dermatitis
+Contact Dermatitis (CD),P_016,CD (1),35,Male,Leg,Contact Dermatitis
+Contact Dermatitis (CD),P_016,CD (2),35,Male,Leg,Contact Dermatitis
+Contact Dermatitis (CD),P_016,CD (3),35,Male,Leg,Contact Dermatitis
+Contact Dermatitis (CD),P_016,CD (4),35,Male,Leg,Contact Dermatitis
+Contact Dermatitis (CD),P_017,CD (5),50,Male,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_017,CD (6),50,Male,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_017,CD (7),50,Male,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_017,CD (8),50,Male,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_017,CD (9),50,Male,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_017,CD (10),50,Male,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_017,CD (11),50,Male,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_018,CD (12),12,Male,Leg,Contact Dermatitis
+Contact Dermatitis (CD),P_018,CD (13),12,Male,Leg,Contact Dermatitis
+Contact Dermatitis (CD),P_018,CD (14),12,Male,Leg,Contact Dermatitis
+Contact Dermatitis (CD),P_019,CD (15),40,Female,Lip,Contact Dermatitis
+Contact Dermatitis (CD),P_019,CD (16),40,Female,Lip,Contact Dermatitis
+Contact Dermatitis (CD),P_019,CD (17),40,Female,Lip,Contact Dermatitis
+Contact Dermatitis (CD),P_019,CD (18),40,Female,Lip,Contact Dermatitis
+Contact Dermatitis (CD),P_019,CD (19),40,Female,Lip,Contact Dermatitis
+Contact Dermatitis (CD),P_020,CD (20),36,Female,Leg,Contact Dermatitis
+Contact Dermatitis (CD),P_020,CD (21),36,Female,Leg,Contact Dermatitis
+Contact Dermatitis (CD),P_020,CD (22),36,Female,Leg,Contact Dermatitis
+Contact Dermatitis (CD),P_021,CD (23),3,Female,Palm,Contact Dermatitis
+Contact Dermatitis (CD),P_021,CD (24),3,Female,Palm,Contact Dermatitis
+Contact Dermatitis (CD),P_021,CD (25),3,Female,Finger and Nail,Contact Dermatitis
+Contact Dermatitis (CD),P_022,CD (26),65,Female,Forearm,Contact Dermatitis
+Contact Dermatitis (CD),P_022,CD (27),65,Female,Forearm,Contact Dermatitis
+Contact Dermatitis (CD),P_022,CD (28),65,Female,Forearm,Contact Dermatitis
+Contact Dermatitis (CD),P_022,CD (29),65,Female,Forearm,Contact Dermatitis
+Contact Dermatitis (CD),P_022,CD (30),65,Female,Forearm,Contact Dermatitis
+Contact Dermatitis (CD),P_023,CD (31),26,Female,Hand,Contact Dermatitis
+Contact Dermatitis (CD),P_023,CD (32),26,Female,Hand,Contact Dermatitis
+Contact Dermatitis (CD),P_023,CD (33),26,Female,Hand,Contact Dermatitis
+Contact Dermatitis (CD),P_023,CD (34),26,Female,Face,Contact Dermatitis
+Contact Dermatitis (CD),P_023,CD (35),26,Female,Face,Contact Dermatitis
+Contact Dermatitis (CD),P_023,CD (36),26,Female,Face,Contact Dermatitis
+Contact Dermatitis (CD),P_023,CD (37),26,Female,Hand,Contact Dermatitis
+Contact Dermatitis (CD),P_024,CD (38),70,Male,Leg (Shin) & Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_024,CD (39),70,Male,Leg (Shin) & Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_024,CD (40),70,Male,Leg (Shin) & Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_025,CD (41),0.7,Male,Cheek,Contact Dermatitis
+Contact Dermatitis (CD),P_025,CD (42),0.7,Male,Cheek,Contact Dermatitis
+Contact Dermatitis (CD),P_025,CD (43),0.7,Male,Cheek,Contact Dermatitis
+Contact Dermatitis (CD),P_026,CD (44),4,Female,Forearm,Contact Dermatitis
+Contact Dermatitis (CD),P_026,CD (45),4,Female,Forearm,Contact Dermatitis
+Contact Dermatitis (CD),P_027,CD (46),5,Male,Hand,Contact Dermatitis
+Contact Dermatitis (CD),P_027,CD (47),5,Male,Forearm,Contact Dermatitis
+Contact Dermatitis (CD),P_027,CD (48),5,Male,Hand,Contact Dermatitis
+Contact Dermatitis (CD),P_027,CD (49),5,Male,Hand,Contact Dermatitis
+Contact Dermatitis (CD),P_027,CD (50),5,Male,Hand & Forearm,Contact Dermatitis
+Contact Dermatitis (CD),P_028,CD (51),35,Female,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_029,CD (52),7,Female,Underarm & Back,Contact Dermatitis
+Contact Dermatitis (CD),P_029,CD (53),7,Female,Leg,Contact Dermatitis
+Contact Dermatitis (CD),P_028,CD (54),35,Female,Hand,Contact Dermatitis
+Contact Dermatitis (CD),P_030,CD (55),7,Female,Back,Contact Dermatitis
+Contact Dermatitis (CD),P_030,CD (56),7,Female,Back,Contact Dermatitis
+Contact Dermatitis (CD),P_030,CD (57),7,Female,Back,Contact Dermatitis
+Contact Dermatitis (CD),P_030,CD (58),7,Female,Back,Contact Dermatitis
+Contact Dermatitis (CD),P_030,CD (59),7,Female,Back,Contact Dermatitis
+Contact Dermatitis (CD),P_030,CD (60),7,Female,Back,Contact Dermatitis
+Contact Dermatitis (CD),P_031,CD (61),12,Female,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_031,CD (62),12,Female,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_031,CD (63),12,Female,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_031,CD (64),12,Female,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_031,CD (65),12,Female,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_031,CD (66),12,Female,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_032,CD (67),6,Female,Back,Contact Dermatitis
+Contact Dermatitis (CD),P_032,CD (68),6,Female,Back,Contact Dermatitis
+Contact Dermatitis (CD),P_032,CD (69),6,Female,Back,Contact Dermatitis
+Contact Dermatitis (CD),P_032,CD (70),6,Female,Back,Contact Dermatitis
+Contact Dermatitis (CD),P_032,CD (71),6,Female,Back,Contact Dermatitis
+Contact Dermatitis (CD),P_032,CD (72),6,Female,Back,Contact Dermatitis
+Contact Dermatitis (CD),P_033,CD (73),17,Female,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_033,CD (74),17,Female,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_033,CD (75),17,Female,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_033,CD (76),17,Female,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_033,CD (77),17,Female,Leg,Contact Dermatitis
+Contact Dermatitis (CD),P_033,CD (78),17,Female,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_033,CD (79),17,Female,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_033,CD (80),17,Female,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_033,CD (81),17,Female,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_033,CD (82),17,Female,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_034,CD (83),35,Female,Toe,Contact Dermatitis
+Contact Dermatitis (CD),P_034,CD (84),35,Female,Toe,Contact Dermatitis
+Contact Dermatitis (CD),P_035,CD (85),2,Male,Face,Contact Dermatitis
+Contact Dermatitis (CD),P_035,CD (86),2,Male,Face,Contact Dermatitis
+Contact Dermatitis (CD),P_036,CD (87),22,Female,Cheek,Contact Dermatitis
+Contact Dermatitis (CD),P_037,CD (88),23,Female,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_037,CD (89),23,Female,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_037,CD (90),23,Female,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_038,CD (91),12,Male,Leg,Contact Dermatitis
+Contact Dermatitis (CD),P_038,CD (92),12,Male,Leg,Contact Dermatitis
+Contact Dermatitis (CD),P_038,CD (93),12,Male,Leg,Contact Dermatitis
+Contact Dermatitis (CD),P_038,CD (94),12,Male,Leg,Contact Dermatitis
+Contact Dermatitis (CD),P_038,CD (95),12,Male,Leg,Contact Dermatitis
+Contact Dermatitis (CD),P_038,CD (96),12,Male,Leg,Contact Dermatitis
+Contact Dermatitis (CD),P_039,CD (97),40,Female,Finger,Contact Dermatitis
+Contact Dermatitis (CD),P_039,CD (98),40,Female,Finger,Contact Dermatitis
+Contact Dermatitis (CD),P_038,CD (99),12,Male,Leg,Contact Dermatitis
+Contact Dermatitis (CD),P_038,CD (100),12,Male,Leg,Contact Dermatitis
+Contact Dermatitis (CD),P_038,CD (101),12,Male,Leg,Contact Dermatitis
+Contact Dermatitis (CD),P_038,CD (102),12,Male,Leg,Contact Dermatitis
+Contact Dermatitis (CD),P_040,CD (103),19,Female,Leg,Contact Dermatitis
+Contact Dermatitis (CD),P_041,CD (104),6,Female,Underarm ,Contact Dermatitis
+Contact Dermatitis (CD),P_042,CD (105),50,Female,Forearm,Contact Dermatitis
+Contact Dermatitis (CD),P_042,CD (106),50,Female,Forearm,Contact Dermatitis
+Contact Dermatitis (CD),P_042,CD (107),50,Female,Forearm,Contact Dermatitis
+Contact Dermatitis (CD),P_042,CD (108),50,Female,Forearm,Contact Dermatitis
+Contact Dermatitis (CD),P_043,CD (109),20,Male,Leg,Contact Dermatitis
+Contact Dermatitis (CD),P_043,CD (110),20,Male,Leg,Contact Dermatitis
+Contact Dermatitis (CD),P_043,CD (111),20,Male,Leg,Contact Dermatitis
+Contact Dermatitis (CD),P_043,CD (112),20,Male,Leg,Contact Dermatitis
+Contact Dermatitis (CD),P_043,CD (113),20,Male,Leg,Contact Dermatitis
+Contact Dermatitis (CD),P_044,CD (114),13,Female,Leg,Contact Dermatitis
+Contact Dermatitis (CD),P_045,CD (115),21,Female,Hand,Contact Dermatitis
+Contact Dermatitis (CD),P_045,CD (116),21,Female,Hand,Contact Dermatitis
+Contact Dermatitis (CD),P_045,CD (117),21,Female,Hand,Contact Dermatitis
+Contact Dermatitis (CD),P_046,CD (118),8,Female,Arm,Contact Dermatitis
+Contact Dermatitis (CD),P_046,CD (119),8,Female,Arm,Contact Dermatitis
+Contact Dermatitis (CD),P_046,CD (120),8,Female,Arm,Contact Dermatitis
+Contact Dermatitis (CD),P_046,CD (121),8,Female,Arm,Contact Dermatitis
+Contact Dermatitis (CD),P_046,CD (122),8,Female,Arm,Contact Dermatitis
+Contact Dermatitis (CD),P_046,CD (123),8,Female,Arm,Contact Dermatitis
+Contact Dermatitis (CD),P_047,CD (124),17,Male,Neck,Contact Dermatitis
+Contact Dermatitis (CD),P_047,CD (125),17,Male,Neck,Contact Dermatitis
+Contact Dermatitis (CD),P_047,CD (126),17,Male,Neck,Contact Dermatitis
+Contact Dermatitis (CD),P_048,CD (127),11,Male,Ear,Contact Dermatitis
+Contact Dermatitis (CD),P_048,CD (128),11,Male,Cheek,Contact Dermatitis
+Contact Dermatitis (CD),P_048,CD (129),11,Male,Ear,Contact Dermatitis
+Contact Dermatitis (CD),P_048,CD (130),11,Male,Ear,Contact Dermatitis
+Contact Dermatitis (CD),P_048,CD (131),11,Male,Ear,Contact Dermatitis
+Contact Dermatitis (CD),P_048,CD (132),11,Male,Ear,Contact Dermatitis
+Contact Dermatitis (CD),P_048,CD (133),11,Male,Ear,Contact Dermatitis
+Contact Dermatitis (CD),P_049,CD (134),12,Male,Leg,Contact Dermatitis
+Contact Dermatitis (CD),P_049,CD (135),12,Male,Leg,Contact Dermatitis
+Contact Dermatitis (CD),P_049,CD (136),12,Male,Leg,Contact Dermatitis
+Contact Dermatitis (CD),P_049,CD (137),12,Male,Leg,Contact Dermatitis
+Contact Dermatitis (CD),P_049,CD (138),12,Male,Leg,Contact Dermatitis
+Contact Dermatitis (CD),P_049,CD (139),12,Male,Leg,Contact Dermatitis
+Contact Dermatitis (CD),P_049,CD (140),12,Male,Leg,Contact Dermatitis
+Contact Dermatitis (CD),P_049,CD (141),12,Male,Leg,Contact Dermatitis
+Contact Dermatitis (CD),P_049,CD (142),12,Male,Leg,Contact Dermatitis
+Contact Dermatitis (CD),P_049,CD (143),12,Male,Leg,Contact Dermatitis
+Contact Dermatitis (CD),P_049,CD (144),12,Male,Leg,Contact Dermatitis
+Contact Dermatitis (CD),P_049,CD (145),12,Male,Leg,Contact Dermatitis
+Contact Dermatitis (CD),P_049,CD (146),12,Male,Leg,Contact Dermatitis
+Contact Dermatitis (CD),P_049,CD (147),12,Male,Leg,Contact Dermatitis
+Contact Dermatitis (CD),P_050,CD (148),38,Male,Palm,Contact Dermatitis
+Contact Dermatitis (CD),P_050,CD (149),38,Male,Palm,Contact Dermatitis
+Contact Dermatitis (CD),P_050,CD (150),38,Male,Palm,Contact Dermatitis
+Contact Dermatitis (CD),P_050,CD (151),38,Male,Palm,Contact Dermatitis
+Contact Dermatitis (CD),P_051,CD (152),26,Female,Leg,Contact Dermatitis
+Contact Dermatitis (CD),P_051,CD (153),26,Female,Leg,Contact Dermatitis
+Contact Dermatitis (CD),P_051,CD (154),26,Female,Leg,Contact Dermatitis
+Contact Dermatitis (CD),P_051,CD (155),26,Female,Leg,Contact Dermatitis
+Contact Dermatitis (CD),P_052,CD (156),3,Male,Toe,Contact Dermatitis
+Contact Dermatitis (CD),P_052,CD (157),3,Male,Toe,Contact Dermatitis
+Contact Dermatitis (CD),P_053,CD (158),1.4,Male,Cheek,Contact Dermatitis
+Contact Dermatitis (CD),P_053,CD (159),1.4,Male,Cheek,Contact Dermatitis
+Contact Dermatitis (CD),P_054,CD (160),55,Female, Back ,Contact Dermatitis
+Contact Dermatitis (CD),P_054,CD (161),55,Female, Back ,Contact Dermatitis
+Contact Dermatitis (CD),P_054,CD (162),55,Female,Belly,Contact Dermatitis
+Contact Dermatitis (CD),P_054,CD (163),55,Female,Belly,Contact Dermatitis
+Contact Dermatitis (CD),P_054,CD (164),55,Female,Belly,Contact Dermatitis
+Contact Dermatitis (CD),P_054,CD (165),55,Female,Belly,Contact Dermatitis
+Contact Dermatitis (CD),P_055,CD (166),34,Female,Neck,Contact Dermatitis
+Contact Dermatitis (CD),P_055,CD (167),34,Female,Neck,Contact Dermatitis
+Contact Dermatitis (CD),P_055,CD (168),34,Female,Neck,Contact Dermatitis
+Contact Dermatitis (CD),P_056,CD (169),22,Male,Finger,Contact Dermatitis
+Contact Dermatitis (CD),P_056,CD (170),22,Male,Finger,Contact Dermatitis
+Contact Dermatitis (CD),P_056,CD (171),22,Male,Finger,Contact Dermatitis
+Contact Dermatitis (CD),P_056,CD (172),22,Male,Finger,Contact Dermatitis
+Contact Dermatitis (CD),P_056,CD (173),22,Male,Finger,Contact Dermatitis
+Contact Dermatitis (CD),P_056,CD (174),22,Male,Finger,Contact Dermatitis
+Contact Dermatitis (CD),P_056,CD (175),22,Male,Finger,Contact Dermatitis
+Contact Dermatitis (CD),P_057,CD (176),30,Female,Arm,Contact Dermatitis
+Contact Dermatitis (CD),P_057,CD (177),30,Female,Arm,Contact Dermatitis
+Contact Dermatitis (CD),P_058,CD (178),13,Female,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_058,CD (179),13,Female,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_058,CD (180),13,Female,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_058,CD (181),13,Female,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_058,CD (182),13,Female,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_059,CD (183),27,Female,Finger,Contact Dermatitis
+Contact Dermatitis (CD),P_059,CD (184),27,Female,Finger,Contact Dermatitis
+Contact Dermatitis (CD),P_059,CD (185),27,Female,Finger,Contact Dermatitis
+Contact Dermatitis (CD),P_060,CD (186),13,Male,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_060,CD (187),13,Male,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_060,CD (188),13,Male,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_060,CD (189),13,Male,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_061,CD (190),26,Male,Palm,Contact Dermatitis
+Contact Dermatitis (CD),P_061,CD (191),26,Male,Palm,Contact Dermatitis
+Contact Dermatitis (CD),P_061,CD (192),26,Male,Palm,Contact Dermatitis
+Contact Dermatitis (CD),P_061,CD (193),26,Male,Palm,Contact Dermatitis
+Contact Dermatitis (CD),P_061,CD (194),26,Male,Palm,Contact Dermatitis
+Contact Dermatitis (CD),P_062,CD (195),45,Male,Leg,Contact Dermatitis
+Contact Dermatitis (CD),P_062,CD (196),45,Male,Leg,Contact Dermatitis
+Contact Dermatitis (CD),P_062,CD (197),45,Male,Leg,Contact Dermatitis
+Contact Dermatitis (CD),P_063,CD (198),35,Male,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_064,CD (199),52,Male,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_064,CD (200),52,Male,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_064,CD (201),52,Male,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_064,CD (202),52,Male,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_064,CD (203),52,Male,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_065,CD (204),60,Female,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_065,CD (205),60,Female,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_065,CD (206),60,Female,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_065,CD (207),60,Female,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_065,CD (208),60,Female,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_065,CD (209),60,Female,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_065,CD (210),60,Female,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_066,CD (211),25,Female,Palm,Contact Dermatitis
+Contact Dermatitis (CD),P_066,CD (212),25,Female,Palm,Contact Dermatitis
+Contact Dermatitis (CD),P_067,CD (213),8,Female,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_067,CD (214),8,Female,Leg,Contact Dermatitis
+Contact Dermatitis (CD),P_068,CD (215),26,Female,Forearm,Contact Dermatitis
+Contact Dermatitis (CD),P_068,CD (216),26,Female,Forearm,Contact Dermatitis
+Contact Dermatitis (CD),P_068,CD (217),26,Female,Forearm,Contact Dermatitis
+Contact Dermatitis (CD),P_068,CD (218),26,Female,Forearm,Contact Dermatitis
+Contact Dermatitis (CD),P_068,CD (219),26,Female,Forearm,Contact Dermatitis
+Contact Dermatitis (CD),P_068,CD (220),26,Female,Forearm,Contact Dermatitis
+Contact Dermatitis (CD),P_068,CD (221),26,Female,Forehead,Contact Dermatitis
+Contact Dermatitis (CD),P_068,CD (222),26,Female,Forehead,Contact Dermatitis
+Contact Dermatitis (CD),P_069,CD (223),20,Female,Arm,Contact Dermatitis
+Contact Dermatitis (CD),P_069,CD (224),20,Female,Arm,Contact Dermatitis
+Contact Dermatitis (CD),P_069,CD (225),20,Female,Arm,Contact Dermatitis
+Contact Dermatitis (CD),P_070,CD (226),6,Male,Forearm,Contact Dermatitis
+Contact Dermatitis (CD),P_070,CD (227),6,Male,Forearm,Contact Dermatitis
+Contact Dermatitis (CD),P_070,CD (228),6,Male,Forearm,Contact Dermatitis
+Contact Dermatitis (CD),P_071,CD (229),12,Female,Forearm,Contact Dermatitis
+Contact Dermatitis (CD),P_071,CD (230),12,Female,Forearm,Contact Dermatitis
+Contact Dermatitis (CD),P_071,CD (231),12,Female,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_071,CD (232),12,Female,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_071,CD (233),12,Female,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_071,CD (234),12,Female,Forearm,Contact Dermatitis
+Contact Dermatitis (CD),P_071,CD (235),12,Female,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_071,CD (236),12,Female,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_071,CD (237),12,Female,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_071,CD (238),12,Female,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_072,CD (239),6,Male,Palm,Contact Dermatitis
+Contact Dermatitis (CD),P_072,CD (240),6,Male,Palm,Contact Dermatitis
+Contact Dermatitis (CD),P_072,CD (241),6,Male,Palm,Contact Dermatitis
+Contact Dermatitis (CD),P_073,CD (242),18,Female,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_073,CD (243),18,Female,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_073,CD (244),18,Female,Leg,Contact Dermatitis
+Contact Dermatitis (CD),P_073,CD (245),18,Female,Leg,Contact Dermatitis
+Contact Dermatitis (CD),P_073,CD (246),18,Female,Leg,Contact Dermatitis
+Contact Dermatitis (CD),P_073,CD (247),18,Female,Leg,Contact Dermatitis
+Contact Dermatitis (CD),P_073,CD (248),18,Female,Leg,Contact Dermatitis
+Contact Dermatitis (CD),P_074,CD (249),6,Female,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_074,CD (250),6,Female,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_075,CD (251),50,Male,Toe,Contact Dermatitis
+Contact Dermatitis (CD),P_075,CD (252),50,Male,Toe,Contact Dermatitis
+Contact Dermatitis (CD),P_075,CD (253),50,Male,Toe,Contact Dermatitis
+Contact Dermatitis (CD),P_076,CD (254),24,Female,Hand,Contact Dermatitis
+Contact Dermatitis (CD),P_076,CD (255),24,Female,Hand,Contact Dermatitis
+Contact Dermatitis (CD),P_076,CD (256),24,Female,Hand,Contact Dermatitis
+Contact Dermatitis (CD),P_076,CD (257),24,Female,Hand,Contact Dermatitis
+Contact Dermatitis (CD),P_076,CD (258),24,Female,Hand,Contact Dermatitis
+Contact Dermatitis (CD),P_076,CD (259),24,Female,Hand,Contact Dermatitis
+Contact Dermatitis (CD),P_077,CD (260),65,Female,Palm,Contact Dermatitis
+Contact Dermatitis (CD),P_077,CD (261),65,Female,Palm,Contact Dermatitis
+Contact Dermatitis (CD),P_077,CD (262),65,Female,Palm,Contact Dermatitis
+Contact Dermatitis (CD),P_077,CD (263),65,Female,Palm,Contact Dermatitis
+Contact Dermatitis (CD),P_077,CD (264),65,Female,Palm,Contact Dermatitis
+Contact Dermatitis (CD),P_077,CD (265),65,Female,Palm,Contact Dermatitis
+Contact Dermatitis (CD),P_077,CD (266),65,Female,Palm,Contact Dermatitis
+Contact Dermatitis (CD),P_077,CD (267),65,Female,Finger,Contact Dermatitis
+Contact Dermatitis (CD),P_077,CD (268),65,Female,Palm,Contact Dermatitis
+Contact Dermatitis (CD),P_077,CD (269),65,Female,Finger,Contact Dermatitis
+Contact Dermatitis (CD),P_077,CD (270),65,Female,Finger,Contact Dermatitis
+Contact Dermatitis (CD),P_077,CD (271),65,Female,Palm,Contact Dermatitis
+Contact Dermatitis (CD),P_078,CD (272),70,Male,Lip,Contact Dermatitis
+Contact Dermatitis (CD),P_078,CD (273),70,Male,Lip,Contact Dermatitis
+Contact Dermatitis (CD),P_079,CD (274),16,Female,Arm,Contact Dermatitis
+Contact Dermatitis (CD),P_079,CD (275),16,Female,Arm,Contact Dermatitis
+Contact Dermatitis (CD),P_079,CD (276),16,Female,Arm,Contact Dermatitis
+Contact Dermatitis (CD),P_079,CD (277),16,Female,Elbow,Contact Dermatitis
+Contact Dermatitis (CD),P_079,CD (278),16,Female,Elbow,Contact Dermatitis
+Contact Dermatitis (CD),P_080,CD (279),60,Male,Belly,Contact Dermatitis
+Contact Dermatitis (CD),P_080,CD (280),60,Male,Chest,Contact Dermatitis
+Contact Dermatitis (CD),P_080,CD (281),60,Male,Belly,Contact Dermatitis
+Contact Dermatitis (CD),P_080,CD (282),60,Male,Belly,Contact Dermatitis
+Contact Dermatitis (CD),P_080,CD (283),60,Male,Belly,Contact Dermatitis
+Contact Dermatitis (CD),P_080,CD (284),60,Male,Belly,Contact Dermatitis
+Contact Dermatitis (CD),P_080,CD (285),60,Male,Belly,Contact Dermatitis
+Contact Dermatitis (CD),P_080,CD (286),60,Male,Belly,Contact Dermatitis
+Contact Dermatitis (CD),P_080,CD (287),60,Male,Belly,Contact Dermatitis
+Contact Dermatitis (CD),P_080,CD (288),60,Male,Belly,Contact Dermatitis
+Contact Dermatitis (CD),P_080,CD (289),60,Male,Belly,Contact Dermatitis
+Contact Dermatitis (CD),P_080,CD (290),60,Male,Face,Contact Dermatitis
+Contact Dermatitis (CD),P_080,CD (291),60,Male,Face,Contact Dermatitis
+Contact Dermatitis (CD),P_080,CD (292),60,Male,Face,Contact Dermatitis
+Contact Dermatitis (CD),P_080,CD (293),60,Male,Face,Contact Dermatitis
+Contact Dermatitis (CD),P_081,CD (294),20,Male,Back,Contact Dermatitis
+Contact Dermatitis (CD),P_081,CD (295),20,Male,Back,Contact Dermatitis
+Contact Dermatitis (CD),P_082,CD (296),10,Male,Arm,Contact Dermatitis
+Contact Dermatitis (CD),P_083,CD (297),28,Male,Arm,Contact Dermatitis
+Contact Dermatitis (CD),P_083,CD (298),28,Male,Arm,Contact Dermatitis
+Contact Dermatitis (CD),P_084,CD (299),23,Male,Leg,Contact Dermatitis
+Contact Dermatitis (CD),P_084,CD (300),23,Male,Leg,Contact Dermatitis
+Contact Dermatitis (CD),P_085,CD (301),14,Female,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_085,CD (302),14,Female,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_085,CD (303),14,Female,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_085,CD (304),14,Female,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_085,CD (305),14,Female,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_085,CD (306),14,Female,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_085,CD (307),14,Female,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_086,CD (308),16,Female,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_086,CD (309),16,Female,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_087,CD (310),45,Female,Finger,Contact Dermatitis
+Contact Dermatitis (CD),P_087,CD (311),45,Female,Finger,Contact Dermatitis
+Contact Dermatitis (CD),P_087,CD (312),45,Female,Finger,Contact Dermatitis
+Contact Dermatitis (CD),P_088,CD (313),55,Female,Chest,Contact Dermatitis
+Contact Dermatitis (CD),P_088,CD (314),55,Female,Chest,Contact Dermatitis
+Contact Dermatitis (CD),P_089,CD (315),12,Female,Leg,Contact Dermatitis
+Contact Dermatitis (CD),P_089,CD (316),12,Female,Leg,Contact Dermatitis
+Contact Dermatitis (CD),P_089,CD (317),12,Female,Leg,Contact Dermatitis
+Contact Dermatitis (CD),P_089,CD (318),12,Female,Leg,Contact Dermatitis
+Contact Dermatitis (CD),P_089,CD (319),12,Female,Leg,Contact Dermatitis
+Contact Dermatitis (CD),P_090,CD (320),12,Female,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_090,CD (321),12,Female,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_090,CD (322),12,Female,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_090,CD (323),12,Female,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_090,CD (324),12,Female,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_091,CD (325),6,Male,Toe,Contact Dermatitis
+Contact Dermatitis (CD),P_092,CD (326),38,Female,Leg,Contact Dermatitis
+Contact Dermatitis (CD),P_092,CD (327),38,Female,Leg,Contact Dermatitis
+Contact Dermatitis (CD),P_092,CD (328),38,Female,Leg,Contact Dermatitis
+Contact Dermatitis (CD),P_092,CD (329),38,Female,Leg,Contact Dermatitis
+Contact Dermatitis (CD),P_092,CD (330),38,Female,Leg,Contact Dermatitis
+Contact Dermatitis (CD),P_093,CD (331),24,Female,Hand,Contact Dermatitis
+Contact Dermatitis (CD),P_093,CD (332),24,Female,Hand,Contact Dermatitis
+Contact Dermatitis (CD),P_094,CD (333),24,Female,Hand,Contact Dermatitis
+Contact Dermatitis (CD),P_095,CD (334),30,Female,Arm,Contact Dermatitis
+Contact Dermatitis (CD),P_095,CD (335),30,Female,Arm,Contact Dermatitis
+Contact Dermatitis (CD),P_095,CD (336),30,Female,Arm,Contact Dermatitis
+Contact Dermatitis (CD),P_096,CD (337),2,Male,Leg,Contact Dermatitis
+Contact Dermatitis (CD),P_096,CD (338),2,Male,Leg,Contact Dermatitis
+Contact Dermatitis (CD),P_096,CD (339),2,Male,Leg,Contact Dermatitis
+Contact Dermatitis (CD),P_097,CD (340),14,Female,Toe,Contact Dermatitis
+Contact Dermatitis (CD),P_097,CD (341),14,Female,Toe,Contact Dermatitis
+Contact Dermatitis (CD),P_097,CD (342),14,Female,Toe,Contact Dermatitis
+Contact Dermatitis (CD),P_098,CD (343),50,Female,Chest,Contact Dermatitis
+Contact Dermatitis (CD),P_098,CD (344),50,Female,Chest,Contact Dermatitis
+Contact Dermatitis (CD),P_099,CD (345),2,Male,Leg,Contact Dermatitis
+Contact Dermatitis (CD),P_099,CD (346),2,Male,Leg,Contact Dermatitis
+Contact Dermatitis (CD),P_099,CD (347),2,Male,Leg,Contact Dermatitis
+Contact Dermatitis (CD),P_099,CD (348),2,Male,Leg,Contact Dermatitis
+Contact Dermatitis (CD),P_100,CD (349),10,Female,Leg,Contact Dermatitis
+Contact Dermatitis (CD),P_100,CD (350),10,Female,Leg,Contact Dermatitis
+Contact Dermatitis (CD),P_100,CD (351),10,Female,Leg,Contact Dermatitis
+Contact Dermatitis (CD),P_100,CD (352),10,Female,Leg,Contact Dermatitis
+Contact Dermatitis (CD),P_100,CD (353),10,Female,Leg,Contact Dermatitis
+Contact Dermatitis (CD),P_101,CD (354),55,Male,Leg,Contact Dermatitis
+Contact Dermatitis (CD),P_101,CD (355),55,Male,Leg,Contact Dermatitis
+Contact Dermatitis (CD),P_101,CD (356),55,Male,Leg,Contact Dermatitis
+Contact Dermatitis (CD),P_101,CD (357),55,Male,Leg,Contact Dermatitis
+Contact Dermatitis (CD),P_102,CD (358),35,Female,Finger,Contact Dermatitis
+Contact Dermatitis (CD),P_102,CD (359),35,Female,Finger,Contact Dermatitis
+Contact Dermatitis (CD),P_102,CD (360),35,Female,Finger,Contact Dermatitis
+Contact Dermatitis (CD),P_102,CD (361),35,Female,Finger,Contact Dermatitis
+Contact Dermatitis (CD),P_103,CD (362),7,Female,Back,Contact Dermatitis
+Contact Dermatitis (CD),P_104,CD (363),6,Female,Palm,Contact Dermatitis
+Contact Dermatitis (CD),P_104,CD (364),6,Female,Palm,Contact Dermatitis
+Contact Dermatitis (CD),P_104,CD (365),6,Female,Palm,Contact Dermatitis
+Contact Dermatitis (CD),P_104,CD (366),6,Female,Palm,Contact Dermatitis
+Contact Dermatitis (CD),P_105,CD (367),6,Female,Hand,Contact Dermatitis
+Contact Dermatitis (CD),P_106,CD (368),7,Male,Forearm,Contact Dermatitis
+Contact Dermatitis (CD),P_106,CD (369),7,Male,Forearm,Contact Dermatitis
+Contact Dermatitis (CD),P_106,CD (370),7,Male,Forearm,Contact Dermatitis
+Contact Dermatitis (CD),P_106,CD (371),7,Male,Forearm,Contact Dermatitis
+Contact Dermatitis (CD),P_106,CD (372),7,Male,Forearm,Contact Dermatitis
+Contact Dermatitis (CD),P_107,CD (373),50,Male,Hand,Contact Dermatitis
+Contact Dermatitis (CD),P_107,CD (374),50,Male,Hand,Contact Dermatitis
+Contact Dermatitis (CD),P_107,CD (375),50,Male,Hand,Contact Dermatitis
+Contact Dermatitis (CD),P_107,CD (376),50,Male,Hand,Contact Dermatitis
+Contact Dermatitis (CD),P_107,CD (377),50,Male,Hand,Contact Dermatitis
+Contact Dermatitis (CD),P_107,CD (378),50,Male,Hand,Contact Dermatitis
+Contact Dermatitis (CD),P_108,CD (379),35,Male,Leg,Contact Dermatitis
+Contact Dermatitis (CD),P_108,CD (380),35,Male,Leg,Contact Dermatitis
+Contact Dermatitis (CD),P_109,CD (381),20,Female,Finger,Contact Dermatitis
+Contact Dermatitis (CD),P_110,CD (382),65,Male,Leg,Contact Dermatitis
+Contact Dermatitis (CD),P_110,CD (383),65,Male,Leg,Contact Dermatitis
+Contact Dermatitis (CD),P_110,CD (384),65,Male,Leg,Contact Dermatitis
+Contact Dermatitis (CD),P_111,CD (385),25,Female,Finger,Contact Dermatitis
+Contact Dermatitis (CD),P_111,CD (386),25,Female,Finger,Contact Dermatitis
+Contact Dermatitis (CD),P_111,CD (387),25,Female,Finger,Contact Dermatitis
+Contact Dermatitis (CD),P_111,CD (388),25,Female,Finger,Contact Dermatitis
+Contact Dermatitis (CD),P_111,CD (389),25,Female,Finger,Contact Dermatitis
+Contact Dermatitis (CD),P_112,CD (390),27,Female,Forearm,Contact Dermatitis
+Contact Dermatitis (CD),P_113,CD (391),4,Female,Belly,Contact Dermatitis
+Contact Dermatitis (CD),P_113,CD (392),4,Female,Belly,Contact Dermatitis
+Contact Dermatitis (CD),P_114,CD (393),37,Male,Toe,Contact Dermatitis
+Contact Dermatitis (CD),P_115,CD (394),54,Male,Forearm,Contact Dermatitis
+Contact Dermatitis (CD),P_115,CD (395),54,Male,Forearm,Contact Dermatitis
+Contact Dermatitis (CD),P_115,CD (396),54,Male,Forearm,Contact Dermatitis
+Contact Dermatitis (CD),P_115,CD (397),54,Male,Forearm,Contact Dermatitis
+Contact Dermatitis (CD),P_115,CD (398),54,Male,Forearm,Contact Dermatitis
+Contact Dermatitis (CD),P_115,CD (399),54,Male,Forearm,Contact Dermatitis
+Contact Dermatitis (CD),P_115,CD (400),54,Male,Forearm,Contact Dermatitis
+Contact Dermatitis (CD),P_115,CD (401),54,Male,Forearm,Contact Dermatitis
+Contact Dermatitis (CD),P_115,CD (402),54,Male,Forearm,Contact Dermatitis
+Contact Dermatitis (CD),P_115,CD (403),54,Male,Forearm,Contact Dermatitis
+Contact Dermatitis (CD),P_116,CD (404),10,Female,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_116,CD (405),10,Female,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_116,CD (406),10,Female,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_117,CD (407),64,Female,Belly,Contact Dermatitis
+Contact Dermatitis (CD),P_117,CD (408),64,Female,Belly,Contact Dermatitis
+Contact Dermatitis (CD),P_118,CD (409),15,Male,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_118,CD (410),15,Male,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_118,CD (411),15,Male,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_118,CD (412),15,Male,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_118,CD (413),15,Male,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_118,CD (414),15,Male,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_118,CD (415),15,Male,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_118,CD (416),15,Male,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_118,CD (417),15,Male,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_118,CD (418),15,Male,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_118,CD (419),15,Male,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_118,CD (420),15,Male,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_118,CD (421),15,Male,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_118,CD (422),15,Male,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_119,CD (423),3,Female,Ear,Contact Dermatitis
+Contact Dermatitis (CD),P_119,CD (424),3,Female,Ear,Contact Dermatitis
+Contact Dermatitis (CD),P_119,CD (425),3,Female,Ear,Contact Dermatitis
+Contact Dermatitis (CD),P_120,CD (426),27,Male,Back,Contact Dermatitis
+Contact Dermatitis (CD),P_120,CD (427),27,Male,Back,Contact Dermatitis
+Contact Dermatitis (CD),P_120,CD (428),27,Male,Back,Contact Dermatitis
+Contact Dermatitis (CD),P_120,CD (429),27,Male,Back,Contact Dermatitis
+Contact Dermatitis (CD),P_120,CD (430),27,Male,Back,Contact Dermatitis
+Contact Dermatitis (CD),P_120,CD (431),27,Male,Back,Contact Dermatitis
+Contact Dermatitis (CD),P_120,CD (432),27,Male,Back,Contact Dermatitis
+Contact Dermatitis (CD),P_120,CD (433),27,Male,Back,Contact Dermatitis
+Contact Dermatitis (CD),P_121,CD (434),27,Female,Shin,Contact Dermatitis
+Contact Dermatitis (CD),P_121,CD (435),27,Female,Shin,Contact Dermatitis
+Contact Dermatitis (CD),P_121,CD (436),27,Female,Leg,Contact Dermatitis
+Contact Dermatitis (CD),P_121,CD (437),27,Female,Leg,Contact Dermatitis
+Contact Dermatitis (CD),P_122,CD (438),43,Male,Forearm,Contact Dermatitis
+Contact Dermatitis (CD),P_122,CD (439),43,Male,Forearm,Contact Dermatitis
+Contact Dermatitis (CD),P_122,CD (440),43,Male,Forearm,Contact Dermatitis
+Contact Dermatitis (CD),P_122,CD (441),43,Male,Forearm,Contact Dermatitis
+Contact Dermatitis (CD),P_122,CD (442),43,Male,Forearm,Contact Dermatitis
+Contact Dermatitis (CD),P_122,CD (443),43,Male,Forearm,Contact Dermatitis
+Contact Dermatitis (CD),P_122,CD (444),43,Male,Forearm,Contact Dermatitis
+Contact Dermatitis (CD),P_122,CD (445),43,Male,Forearm,Contact Dermatitis
+Contact Dermatitis (CD),P_122,CD (446),43,Male,Forearm,Contact Dermatitis
+Contact Dermatitis (CD),P_122,CD (447),43,Male,Forearm,Contact Dermatitis
+Contact Dermatitis (CD),P_122,CD (448),43,Male,Forearm,Contact Dermatitis
+Contact Dermatitis (CD),P_122,CD (449),43,Male,Forearm,Contact Dermatitis
+Contact Dermatitis (CD),P_122,CD (450),43,Male,Forearm,Contact Dermatitis
+Contact Dermatitis (CD),P_122,CD (451),43,Male,Forearm,Contact Dermatitis
+Contact Dermatitis (CD),P_122,CD (452),43,Male,Forearm,Contact Dermatitis
+Contact Dermatitis (CD),P_122,CD (453),43,Male,Forearm,Contact Dermatitis
+Contact Dermatitis (CD),P_122,CD (454),43,Male,Forearm,Contact Dermatitis
+Contact Dermatitis (CD),P_123,CD (455),52,Male,Finger,Contact Dermatitis
+Contact Dermatitis (CD),P_123,CD (456),52,Male,Finger,Contact Dermatitis
+Contact Dermatitis (CD),P_123,CD (457),52,Male,Finger,Contact Dermatitis
+Contact Dermatitis (CD),P_123,CD (458),52,Male,Finger,Contact Dermatitis
+Contact Dermatitis (CD),P_123,CD (459),52,Male,Finger,Contact Dermatitis
+Contact Dermatitis (CD),P_123,CD (460),52,Male,Finger,Contact Dermatitis
+Contact Dermatitis (CD),P_123,CD (461),52,Male,Finger,Contact Dermatitis
+Contact Dermatitis (CD),P_124,CD (462),53,Male,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_124,CD (463),53,Male,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_124,CD (464),53,Male,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_124,CD (465),53,Male,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_124,CD (466),53,Male,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_124,CD (467),53,Male,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_124,CD (468),53,Male,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_124,CD (469),53,Male,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_124,CD (470),53,Male,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_124,CD (471),53,Male,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_124,CD (472),53,Male,Foot,Contact Dermatitis
+Contact Dermatitis (CD),P_125,CD (473),40,Female,Toe,Contact Dermatitis
+Contact Dermatitis (CD),P_125,CD (474),40,Female,Toe,Contact Dermatitis
+Contact Dermatitis (CD),P_125,CD (475),40,Female,Toe,Contact Dermatitis
+Contact Dermatitis (CD),P_125,CD (476),40,Female,Toe,Contact Dermatitis
+Contact Dermatitis (CD),P_125,CD (477),40,Female,Toe,Contact Dermatitis
+Eczema (EC),P_126,EC (1),11,Female,Foot,Eczema
+Eczema (EC),P_126,EC (2),11,Female,Foot,Eczema
+Eczema (EC),P_126,EC (3),11,Female,Foot,Eczema
+Eczema (EC),P_127,EC (4),35,Female,Foot,Eczema
+Eczema (EC),P_127,EC (5),35,Female,Elbow,Eczema
+Eczema (EC),P_128,EC (6),60,Female,Hand,Eczema
+Eczema (EC),P_129,EC (7),6,Male,Arm & Forearm,Eczema
+Eczema (EC),P_130,EC (8),70,Male,Leg,Eczema
+Eczema (EC),P_130,EC (9),70,Male,Leg,Eczema
+Eczema (EC),P_130,EC (10),70,Male,Hand,Eczema
+Eczema (EC),P_131,EC (11),27,Female,Leg,Eczema
+Eczema (EC),P_131,EC (12),27,Female,Leg,Eczema
+Eczema (EC),P_132,EC (13),63,Male,Palm,Eczema
+Eczema (EC),P_132,EC (14),63,Male,Palm,Eczema
+Eczema (EC),P_132,EC (15),63,Male,Hand,Eczema
+Eczema (EC),P_132,EC (16),63,Male,Finger,Eczema
+Eczema (EC),P_133,EC (17),3,Male,Leg,Eczema
+Eczema (EC),P_133,EC (18),3,Male,Leg,Eczema
+Eczema (EC),P_134,EC (19),40,Female,Arm,Eczema
+Eczema (EC),P_134,EC (20),40,Female,Arm,Eczema
+Eczema (EC),P_135,EC (21),65,Female,Foot,Eczema
+Eczema (EC),P_135,EC (22),65,Female,Foot,Eczema
+Eczema (EC),P_135,EC (23),65,Female,Leg,Eczema
+Eczema (EC),P_135,EC (24),65,Female,Leg,Eczema
+Eczema (EC),P_135,EC (25),65,Female,Foot,Eczema
+Eczema (EC),P_135,EC (26),65,Female,Foot,Eczema
+Eczema (EC),P_135,EC (27),65,Female,Leg,Eczema
+Eczema (EC),P_135,EC (28),65,Female,Leg,Eczema
+Eczema (EC),P_136,EC (29),76,Male,Leg,Eczema
+Eczema (EC),P_136,EC (30),76,Male,Leg,Eczema
+Eczema (EC),P_137,EC (31),20,Female,Leg,Eczema
+Eczema (EC),P_137,EC (32),20,Female,Leg,Eczema
+Eczema (EC),P_137,EC (33),20,Female,Leg,Eczema
+Eczema (EC),P_138,EC (34),75,Male,Leg,Eczema
+Eczema (EC),P_138,EC (35),75,Male,Leg,Eczema
+Eczema (EC),P_138,EC (36),75,Male,Leg,Eczema
+Eczema (EC),P_139,EC (37),50,Male,Leg,Eczema
+Eczema (EC),P_139,EC (38),50,Male,Leg,Eczema
+Eczema (EC),P_140,EC (39),12,Female,Leg,Eczema
+Eczema (EC),P_141,EC (40),65,Female,Leg,Eczema
+Eczema (EC),P_141,EC (41),65,Female,Leg,Eczema
+Eczema (EC),P_142,EC (42),35,Female,Finger,Eczema
+Eczema (EC),P_143,EC (43),40,Female,Finger,Eczema
+Eczema (EC),P_143,EC (44),40,Female,Finger,Eczema
+Eczema (EC),P_143,EC (45),40,Female,Palm,Eczema
+Eczema (EC),P_144,EC (46),60,Female,Leg,Eczema
+Eczema (EC),P_144,EC (47),60,Female,Leg,Eczema
+Eczema (EC),P_145,EC (48),9,Male,Foot,Eczema
+Eczema (EC),P_145,EC (49),9,Male,Foot,Eczema
+Eczema (EC),P_146,EC (50),40,Female,Foot,Eczema
+Eczema (EC),P_146,EC (51),40,Female,Foot,Eczema
+Eczema (EC),P_147,EC (52),18,Female,Foot,Eczema
+Eczema (EC),P_148,EC (53),9,Male,Hand,Eczema
+Eczema (EC),P_148,EC (54),9,Male,Hand,Eczema
+Eczema (EC),P_148,EC (55),9,Male,Hand,Eczema
+Eczema (EC),P_149,EC (56),16,Male,Leg,Eczema
+Eczema (EC),P_150,EC (57),30,Male,Hand,Eczema
+Eczema (EC),P_150,EC (58),30,Male,Hand,Eczema
+Eczema (EC),P_151,EC (59),19,Male,Leg,Eczema
+Eczema (EC),P_151,EC (60),19,Male,Leg,Eczema
+Eczema (EC),P_151,EC (61),19,Male,Leg,Eczema
+Eczema (EC),P_152,EC (62),25,Female,Leg,Eczema
+Eczema (EC),P_152,EC (63),25,Female,Leg,Eczema
+Eczema (EC),P_153,EC (64),6,Male,Face,Eczema
+Eczema (EC),P_154,EC (65),6,Female,Hand,Eczema
+Eczema (EC),P_154,EC (66),6,Female,Hand,Eczema
+Eczema (EC),P_154,EC (67),6,Female,Hand,Eczema
+Eczema (EC),P_155,EC (68),40,Female,Leg,Eczema
+Eczema (EC),P_156,EC (69),20,Female,Toe,Eczema
+Eczema (EC),P_157,EC (70),30,Female,Hand,Eczema
+Eczema (EC),P_157,EC (71),30,Female,Hand,Eczema
+Eczema (EC),P_158,EC (72),35,Female,Lip,Eczema
+Eczema (EC),P_158,EC (73),35,Female,Lip,Eczema
+Eczema (EC),P_158,EC (74),35,Female,Lip,Eczema
+Eczema (EC),P_159,EC (75),45,Female,Leg,Eczema
+Eczema (EC),P_159,EC (76),45,Female,Leg,Eczema
+Eczema (EC),P_160,EC (77),50,Female,Leg,Eczema
+Eczema (EC),P_160,EC (78),50,Female,Leg,Eczema
+Eczema (EC),P_161,EC (79),0.7,Female,Leg,Eczema
+Eczema (EC),P_161,EC (80),0.7,Female,Leg,Eczema
+Eczema (EC),P_162,EC (81),36,Female,Forearm,Eczema
+Eczema (EC),P_162,EC (82),36,Female,Forearm,Eczema
+Eczema (EC),P_162,EC (83),36,Female,Forearm,Eczema
+Eczema (EC),P_163,EC (84),2,Male,Lip Side & Chin,Eczema
+Eczema (EC),P_163,EC (85),6,Male,Leg,Eczema
+Eczema (EC),P_164,EC (86),6,Male,Leg,Eczema
+Eczema (EC),P_164,EC (87),6,Male,Leg,Eczema
+Eczema (EC),P_165,EC (88),30,Female,Forearm,Eczema
+Eczema (EC),P_165,EC (89),30,Female,Forearm,Eczema
+Eczema (EC),P_165,EC (90),30,Female,Forearm,Eczema
+Eczema (EC),P_166,EC (91),40,Male,Foot & Leg,Eczema
+Eczema (EC),P_166,EC (92),40,Male,Foot & Leg,Eczema
+Eczema (EC),P_166,EC (93),40,Male,Foot & Leg,Eczema
+Eczema (EC),P_166,EC (94),40,Male,Foot & Leg,Eczema
+Eczema (EC),P_166,EC (95),40,Male,Arm,Eczema
+Eczema (EC),P_166,EC (96),40,Male,Arm,Eczema
+Eczema (EC),P_167,EC (97),21,Male,Leg,Eczema
+Eczema (EC),P_167,EC (98),21,Male,Leg,Eczema
+Eczema (EC),P_167,EC (99),21,Male,Leg,Eczema
+Eczema (EC),P_168,EC (100),23,Female,Foot & Leg,Eczema
+Eczema (EC),P_168,EC (101),23,Female,Foot & Leg,Eczema
+Eczema (EC),P_168,EC (102),23,Female,Foot & Leg,Eczema
+Eczema (EC),P_168,EC (103),23,Female,Foot & Leg,Eczema
+Eczema (EC),P_169,EC (104),20,Female,Foot,Eczema
+Eczema (EC),P_169,EC (105),20,Female,Foot,Eczema
+Eczema (EC),P_170,EC (106),16,Female,Leg,Eczema
+Eczema (EC),P_170,EC (107),16,Female,Leg,Eczema
+Eczema (EC),P_170,EC (108),16,Female,Leg,Eczema
+Eczema (EC),P_171,EC (109),13,Female,Foot,Eczema
+Eczema (EC),P_171,EC (110),13,Female,Foot,Eczema
+Eczema (EC),P_171,EC (111),13,Female,Foot,Eczema
+Eczema (EC),P_171,EC (112),13,Female,Foot,Eczema
+Eczema (EC),P_171,EC (113),13,Female,Foot,Eczema
+Eczema (EC),P_172,EC (114),27,Female,Foot,Eczema
+Eczema (EC),P_172,EC (115),27,Female,Foot,Eczema
+Eczema (EC),P_173,EC (116),10,Female,Leg,Eczema
+Eczema (EC),P_173,EC (117),10,Female,Leg,Eczema
+Eczema (EC),P_173,EC (118),10,Female,Leg,Eczema
+Eczema (EC),P_174,EC (119),3,Female,Foot &Toe,Eczema
+Eczema (EC),P_175,EC (120),23,Male,Forearm,Eczema
+Eczema (EC),P_175,EC (121),23,Male,Forearm,Eczema
+Eczema (EC),P_175,EC (122),23,Male,Forearm,Eczema
+Eczema (EC),P_176,EC (123),12,Male,Foot,Eczema
+Eczema (EC),P_176,EC (124),12,Male,Leg,Eczema
+Eczema (EC),P_177,EC (125),21,Female,Face,Eczema
+Eczema (EC),P_177,EC (126),21,Female,Face,Eczema
+Eczema (EC),P_178,EC (127),32,Male,Arm,Eczema
+Eczema (EC),P_178,EC (128),32,Male,Arm,Eczema
+Eczema (EC),P_178,EC (129),32,Male,Forearm,Eczema
+Eczema (EC),P_178,EC (130),32,Male,Forearm,Eczema
+Eczema (EC),P_178,EC (131),32,Male,Forearm,Eczema
+Eczema (EC),P_178,EC (132),60,Male,Leg,Eczema
+Eczema (EC),P_178,EC (133),60,Male,Leg,Eczema
+Eczema (EC),P_179,EC (134),24,Male,Palm,Eczema
+Eczema (EC),P_180,EC (135),60,Male,Face,Eczema
+Eczema (EC),P_180,EC (136),60,Male,Face,Eczema
+Eczema (EC),P_180,EC (137),60,Male,Face,Eczema
+Eczema (EC),P_181,EC (138),55,Male,Back,Eczema
+Eczema (EC),P_181,EC (139),55,Male,Forearm,Eczema
+Eczema (EC),P_181,EC (140),55,Male,Arm,Eczema
+Eczema (EC),P_182,EC (141),45,Male,Leg,Eczema
+Eczema (EC),P_182,EC (142),45,Male,Leg,Eczema
+Eczema (EC),P_183,EC (143),30,Male,Toe,Eczema
+Eczema (EC),P_183,EC (144),30,Male,Foot,Eczema
+Eczema (EC),P_183,EC (145),30,Male,Toe,Eczema
+Eczema (EC),P_183,EC (146),30,Male,Knee,Eczema
+Eczema (EC),P_183,EC (147),30,Male,Knee,Eczema
+Eczema (EC),P_184,EC (148),40,Male,Leg,Eczema
+Eczema (EC),P_184,EC (149),40,Male,Leg,Eczema
+Eczema (EC),P_185,EC (150),65,Male,Palm,Eczema
+Eczema (EC),P_185,EC (151),65,Male,Palm,Eczema
+Eczema (EC),P_186,EC (152),14,Male,Forearm,Eczema
+Eczema (EC),P_187,EC (153),12,Male,Leg,Eczema
+Eczema (EC),P_188,EC (154),45,Male,Leg,Eczema
+Eczema (EC),P_188,EC (155),45,Male,Leg,Eczema
+Eczema (EC),P_189,EC (156),40,Female,Leg,Eczema
+Eczema (EC),P_189,EC (157),40,Female,Leg,Eczema
+Eczema (EC),P_190,EC (158),37,Male,Leg,Eczema
+Eczema (EC),P_190,EC (159),37,Male,Leg,Eczema
+Eczema (EC),P_191,EC (160),67,Male,Leg,Eczema
+Eczema (EC),P_191,EC (161),67,Male,Leg,Eczema
+Eczema (EC),P_191,EC (162),67,Male,Leg,Eczema
+Eczema (EC),P_192,EC (163),63,Male,Foot,Eczema
+Eczema (EC),P_192,EC (164),63,Male,Foot,Eczema
+Eczema (EC),P_192,EC (165),63,Male,Foot,Eczema
+Eczema (EC),P_193,EC (166),18,Male,Leg,Eczema
+Eczema (EC),P_193,EC (167),18,Male,Leg,Eczema
+Eczema (EC),P_193,EC (168),18,Male,Leg,Eczema
+Eczema (EC),P_194,EC (169),48,Male,Knee,Eczema
+Eczema (EC),P_194,EC (170),48,Male,Knee,Eczema
+Eczema (EC),P_195,EC (171),17,Male,Leg,Eczema
+Eczema (EC),P_195,EC (172),17,Male,Leg,Eczema
+Eczema (EC),P_195,EC (173),17,Male,Leg,Eczema
+Eczema (EC),P_196,EC (174),38,Male,Leg,Eczema
+Eczema (EC),P_197,EC (175),40,Male,Forearm,Eczema
+Eczema (EC),P_197,EC (176),40,Male,Chest,Eczema
+Eczema (EC),P_197,EC (177),40,Male,Chest,Eczema
+Eczema (EC),P_198,EC (178),35,Female,Heel,Eczema
+Eczema (EC),P_198,EC (179),35,Female,Heel,Eczema
+Eczema (EC),P_198,EC (180),35,Female,Heel,Eczema
+Eczema (EC),P_198,EC (181),35,Female,Heel,Eczema
+Eczema (EC),P_198,EC (182),35,Female,Heel,Eczema
+Eczema (EC),P_198,EC (183),35,Female,Heel,Eczema
+Eczema (EC),P_198,EC (184),35,Female,Heel,Eczema
+Eczema (EC),P_198,EC (185),35,Female,Heel,Eczema
+Eczema (EC),P_198,EC (186),35,Female,Heel,Eczema
+Eczema (EC),P_198,EC (187),35,Female,Heel,Eczema
+Eczema (EC),P_198,EC (188),35,Female,Heel,Eczema
+Eczema (EC),P_198,EC (189),35,Female,Heel,Eczema
+Eczema (EC),P_198,EC (190),35,Female,Foot,Eczema
+Eczema (EC),P_198,EC (191),35,Female,Foot,Eczema
+Eczema (EC),P_199,EC (192),17,Male,Foot,Eczema
+Eczema (EC),P_199,EC (193),17,Male,Foot,Eczema
+Eczema (EC),P_199,EC (194),17,Male,Foot,Eczema
+Eczema (EC),P_199,EC (195),17,Male,Foot,Eczema
+Eczema (EC),P_200,EC (196),75,Female,Shin,Eczema
+Eczema (EC),P_200,EC (197),75,Female,Shin,Eczema
+Eczema (EC),P_200,EC (198),75,Female,Shin,Eczema
+Eczema (EC),P_200,EC (199),75,Female,Shin,Eczema
+Eczema (EC),P_200,EC (200),75,Female,Shin,Eczema
+Eczema (EC),P_200,EC (201),75,Female,Shin,Eczema
+Eczema (EC),P_201,EC (202),9,Female,Foot,Eczema
+Eczema (EC),P_202,EC (203),40,Female,Foot,Eczema
+Eczema (EC),P_202,EC (204),40,Female,Foot,Eczema
+Eczema (EC),P_202,EC (205),40,Female,Foot,Eczema
+Eczema (EC),P_202,EC (206),40,Female,Foot,Eczema
+Eczema (EC),P_203,EC (207),17,Female,Foot,Eczema
+Eczema (EC),P_203,EC (208),17,Female,Foot,Eczema
+Eczema (EC),P_203,EC (209),17,Female,Foot,Eczema
+Eczema (EC),P_203,EC (210),17,Female,Foot,Eczema
+Eczema (EC),P_203,EC (211),17,Female,Foot,Eczema
+Eczema (EC),P_203,EC (212),17,Female,Foot,Eczema
+Eczema (EC),P_203,EC (213),17,Female,Foot,Eczema
+Eczema (EC),P_203,EC (214),17,Female,Foot,Eczema
+Eczema (EC),P_204,EC (215),40,Female,Forearm,Eczema
+Eczema (EC),P_204,EC (216),40,Female,Forearm,Eczema
+Eczema (EC),P_204,EC (217),40,Female,Forearm,Eczema
+Eczema (EC),P_204,EC (218),40,Female,Forearm,Eczema
+Eczema (EC),P_205,EC (219),33,Female,Toe,Eczema
+Eczema (EC),P_206,EC (220),52,Female,Toe,Eczema
+Eczema (EC),P_206,EC (221),52,Female,Toe,Eczema
+Eczema (EC),P_206,EC (222),52,Female,Toe,Eczema
+Eczema (EC),P_206,EC (223),52,Female,Toe,Eczema
+Eczema (EC),P_206,EC (224),52,Female,Toe,Eczema
+Eczema (EC),P_206,EC (225),52,Female,Toe,Eczema
+Eczema (EC),P_206,EC (226),52,Female,Toe,Eczema
+Eczema (EC),P_206,EC (227),52,Female,Toe,Eczema
+Eczema (EC),P_206,EC (228),52,Female,Toe,Eczema
+Eczema (EC),P_206,EC (229),52,Female,Toe,Eczema
+Eczema (EC),P_206,EC (230),52,Female,Toe,Eczema
+Eczema (EC),P_206,EC (231),52,Female,Toe,Eczema
+Eczema (EC),P_206,EC (232),52,Female,Toe,Eczema
+Eczema (EC),P_206,EC (233),52,Female,Toe,Eczema
+Eczema (EC),P_207,EC (234),4,Female,Knee,Eczema
+Eczema (EC),P_207,EC (235),4,Female,Knee,Eczema
+Eczema (EC),P_208,EC (236),45,Male,Foot,Eczema
+Eczema (EC),P_208,EC (237),45,Male,Foot,Eczema
+Eczema (EC),P_208,EC (238),45,Male,Foot,Eczema
+Eczema (EC),P_208,EC (239),45,Male,Foot,Eczema
+Eczema (EC),P_209,EC (240),60,Male,Leg,Eczema
+Eczema (EC),P_209,EC (241),60,Male,Leg,Eczema
+Eczema (EC),P_209,EC (242),60,Male,Leg,Eczema
+Eczema (EC),P_209,EC (243),60,Male,Belly,Eczema
+Eczema (EC),P_209,EC (244),60,Male,Belly,Eczema
+Eczema (EC),P_209,EC (245),60,Male,Belly,Eczema
+Eczema (EC),P_209,EC (246),60,Male,Belly,Eczema
+Eczema (EC),P_209,EC (247),60,Male,Belly,Eczema
+Eczema (EC),P_209,EC (248),60,Male,Belly,Eczema
+Eczema (EC),P_209,EC (249),60,Male,Belly,Eczema
+Eczema (EC),P_209,EC (250),60,Male,Belly,Eczema
+Eczema (EC),P_210,EC (251),61,Female,Belly,Eczema
+Eczema (EC),P_210,EC (252),61,Female,Belly,Eczema
+Eczema (EC),P_210,EC (253),61,Female,Belly,Eczema
+Eczema (EC),P_210,EC (254),61,Female,Belly,Eczema
+Eczema (EC),P_210,EC (255),61,Female,Belly,Eczema
+Eczema (EC),P_210,EC (256),61,Female,Belly,Eczema
+Eczema (EC),P_210,EC (257),61,Female,Belly,Eczema
+Eczema (EC),P_210,EC (258),61,Female,Belly,Eczema
+Eczema (EC),P_210,EC (259),61,Female,Belly,Eczema
+Eczema (EC),P_210,EC (260),61,Female,Belly,Eczema
+Eczema (EC),P_210,EC (261),61,Female,Belly,Eczema
+Eczema (EC),P_210,EC (262),61,Female,Belly,Eczema
+Eczema (EC),P_211,EC (263),24,Male,Foot,Eczema
+Eczema (EC),P_211,EC (264),24,Male,Foot,Eczema
+Eczema (EC),P_211,EC (265),24,Male,Foot,Eczema
+Eczema (EC),P_211,EC (266),24,Male,Foot,Eczema
+Eczema (EC),P_211,EC (267),24,Male,Foot,Eczema
+Eczema (EC),P_211,EC (268),24,Male,Foot,Eczema
+Eczema (EC),P_211,EC (269),24,Male,Foot,Eczema
+Eczema (EC),P_211,EC (270),24,Male,Foot,Eczema
+Eczema (EC),P_211,EC (271),24,Male,Foot,Eczema
+Eczema (EC),P_211,EC (272),24,Male,Foot,Eczema
+Eczema (EC),P_212,EC (273),30,Female,Foot,Eczema
+Eczema (EC),P_212,EC (274),30,Female,Foot,Eczema
+Eczema (EC),P_212,EC (275),30,Female,Foot,Eczema
+Eczema (EC),P_212,EC (276),30,Female,Foot,Eczema
+Eczema (EC),P_212,EC (277),30,Female,Foot,Eczema
+Eczema (EC),P_212,EC (278),30,Female,Foot,Eczema
+Eczema (EC),P_212,EC (279),30,Female,Foot,Eczema
+Eczema (EC),P_212,EC (280),30,Female,Foot,Eczema
+Eczema (EC),P_212,EC (281),30,Female,Foot,Eczema
+Eczema (EC),P_212,EC (282),30,Female,Foot,Eczema
+Eczema (EC),P_213,EC (283),0.9,Male,Belly,Eczema
+Eczema (EC),P_213,EC (284),0.9,Male,Belly,Eczema
+Eczema (EC),P_214,EC (285),35,Male,Foot,Eczema
+Eczema (EC),P_214,EC (286),35,Male,Foot,Eczema
+Eczema (EC),P_215,EC (287),3,Male,Sole,Eczema
+Eczema (EC),P_215,EC (288),3,Male,Sole,Eczema
+Eczema (EC),P_215,EC (289),3,Male,Sole,Eczema
+Eczema (EC),P_215,EC (290),3,Male,Sole,Eczema
+Eczema (EC),P_215,EC (291),3,Male,Sole,Eczema
+Eczema (EC),P_215,EC (292),3,Male,Sole,Eczema
+Eczema (EC),P_215,EC (293),3,Male,Sole,Eczema
+Eczema (EC),P_215,EC (294),3,Male,Sole,Eczema
+Eczema (EC),P_215,EC (295),3,Male,Sole,Eczema
+Eczema (EC),P_215,EC (296),3,Male,Sole,Eczema
+Eczema (EC),P_215,EC (297),3,Male,Sole,Eczema
+Eczema (EC),P_215,EC (298),3,Male,Foot,Eczema
+Eczema (EC),P_216,EC (299),3.5,Female,Ear,Eczema
+Eczema (EC),P_216,EC (300),3.5,Female,Ear,Eczema
+Eczema (EC),P_216,EC (301),3.5,Female,Ear,Eczema
+Eczema (EC),P_217,EC (302),35,Female,Palm,Eczema
+Eczema (EC),P_217,EC (303),35,Female,Palm,Eczema
+Eczema (EC),P_217,EC (304),35,Female,Finger,Eczema
+Eczema (EC),P_217,EC (305),35,Female,Palm,Eczema
+Eczema (EC),P_217,EC (306),35,Female,Palm,Eczema
+Eczema (EC),P_218,EC (307),2.5,Male,Foot,Eczema
+Eczema (EC),P_218,EC (308),2.5,Male,Foot,Eczema
+Eczema (EC),P_218,EC (309),2.5,Male,Foot,Eczema
+Eczema (EC),P_219,EC (310),9,Male,Toe,Eczema
+Eczema (EC),P_219,EC (311),9,Male,Toe,Eczema
+Eczema (EC),P_219,EC (312),9,Male,Toe,Eczema
+Eczema (EC),P_219,EC (313),9,Male,Finger,Eczema
+Eczema (EC),P_219,EC (314),9,Male,Finger,Eczema
+Eczema (EC),P_219,EC (315),9,Male,Finger,Eczema
+Eczema (EC),P_219,EC (316),9,Male,Finger,Eczema
+Eczema (EC),P_219,EC (317),9,Male,Finger,Eczema
+Eczema (EC),P_219,EC (318),9,Male,Finger,Eczema
+Eczema (EC),P_219,EC (319),9,Male,Finger,Eczema
+Eczema (EC),P_219,EC (320),9,Male,Finger,Eczema
+Eczema (EC),P_219,EC (321),9,Male,Finger,Eczema
+Eczema (EC),P_219,EC (322),9,Male,Finger,Eczema
+Eczema (EC),P_219,EC (323),9,Male,Finger,Eczema
+Eczema (EC),P_219,EC (324),9,Male,Finger,Eczema
+Eczema (EC),P_219,EC (325),9,Male,Finger,Eczema
+Eczema (EC),P_219,EC (326),9,Male,Finger,Eczema
+Eczema (EC),P_219,EC (327),9,Male,Finger,Eczema
+Eczema (EC),P_219,EC (328),9,Male,Finger,Eczema
+Eczema (EC),P_219,EC (329),9,Male,Finger,Eczema
+Eczema (EC),P_219,EC (330),9,Male,Finger,Eczema
+Eczema (EC),P_219,EC (331),9,Male,Finger,Eczema
+Eczema (EC),P_219,EC (332),9,Male,Finger,Eczema
+Eczema (EC),P_219,EC (333),9,Male,Finger,Eczema
+Eczema (EC),P_219,EC (334),9,Male,Finger,Eczema
+Eczema (EC),P_219,EC (335),9,Male,Finger,Eczema
+Eczema (EC),P_219,EC (336),9,Male,Finger,Eczema
+Eczema (EC),P_219,EC (337),9,Male,Finger,Eczema
+Eczema (EC),P_219,EC (338),9,Male,Finger,Eczema
+Eczema (EC),P_219,EC (339),9,Male,Finger,Eczema
+Eczema (EC),P_219,EC (340),9,Male,Finger,Eczema
+Eczema (EC),P_219,EC (341),9,Male,Finger,Eczema
+Eczema (EC),P_219,EC (342),9,Male,Finger,Eczema
+Eczema (EC),P_219,EC (343),9,Male,Finger,Eczema
+Eczema (EC),P_219,EC (344),9,Male,Finger,Eczema
+Eczema (EC),P_219,EC (345),9,Male,Finger,Eczema
+Eczema (EC),P_219,EC (346),9,Male,Finger,Eczema
+Eczema (EC),P_220,EC (347),32,Female,Finger,Eczema
+Eczema (EC),P_220,EC (348),32,Female,Finger,Eczema
+Eczema (EC),P_220,EC (349),32,Female,Finger,Eczema
+Eczema (EC),P_220,EC (350),32,Female,Finger,Eczema
+Eczema (EC),P_220,EC (351),32,Female,Finger,Eczema
+Eczema (EC),P_220,EC (352),32,Female,Finger,Eczema
+Eczema (EC),P_220,EC (353),32,Female,Finger,Eczema
+Eczema (EC),P_221,EC (354),50,Male,Foot,Eczema
+Eczema (EC),P_221,EC (355),50,Male,Foot,Eczema
+Eczema (EC),P_221,EC (356),50,Male,Foot,Eczema
+Eczema (EC),P_221,EC (357),50,Male,Foot,Eczema
+Eczema (EC),P_221,EC (358),50,Male,Foot,Eczema
+Eczema (EC),P_221,EC (359),50,Male,Foot,Eczema
+Eczema (EC),P_222,EC (360),80,Female,Chin,Eczema
+Eczema (EC),P_222,EC (361),80,Female,Chin,Eczema
+Eczema (EC),P_222,EC (362),80,Female,Chin,Eczema
+Eczema (EC),P_222,EC (363),80,Female,Chin,Eczema
+Eczema (EC),P_223,EC (364),40,Female,Forearm,Eczema
+Eczema (EC),P_223,EC (365),40,Female,Forearm,Eczema
+Eczema (EC),P_223,EC (366),40,Female,Forearm,Eczema
+Eczema (EC),P_223,EC (367),40,Female,Forearm,Eczema
+Eczema (EC),P_223,EC (368),40,Female,Forearm,Eczema
+Eczema (EC),P_223,EC (369),40,Female,Forearm,Eczema
+Eczema (EC),P_223,EC (370),40,Female,Forearm,Eczema
+Eczema (EC),P_223,EC (371),40,Female,Forearm,Eczema
+Eczema (EC),P_224,EC (372),20,Male,Shin,Eczema
+Eczema (EC),P_224,EC (373),20,Male,Shin,Eczema
+Eczema (EC),P_224,EC (374),20,Male,Shin,Eczema
+Eczema (EC),P_224,EC (375),20,Male,Shin,Eczema
+Eczema (EC),P_225,EC (376),2,Female,Belly,Eczema
+Eczema (EC),P_225,EC (377),2,Female,Belly,Eczema
+Eczema (EC),P_226,EC (378),8,Female,Back,Eczema
+Eczema (EC),P_226,EC (379),8,Female,Back,Eczema
+Eczema (EC),P_226,EC (380),8,Female,Back,Eczema
+Eczema (EC),P_226,EC (381),8,Female,Back,Eczema
+Eczema (EC),P_226,EC (382),8,Female,Back,Eczema
+Eczema (EC),P_226,EC (383),8,Female,Back,Eczema
+Eczema (EC),P_226,EC (384),8,Female,Back,Eczema
+Eczema (EC),P_226,EC (385),8,Female,Back,Eczema
+Eczema (EC),P_226,EC (386),8,Female,Back,Eczema
+Eczema (EC),P_226,EC (387),8,Female,Back,Eczema
+Eczema (EC),P_226,EC (388),8,Female,Back,Eczema
+Eczema (EC),P_226,EC (389),8,Female,Back,Eczema
+Eczema (EC),P_227,EC (390),1,Male,Palm,Eczema
+Eczema (EC),P_227,EC (391),1,Male,Palm & Finger,Eczema
+Eczema (EC),P_227,EC (392),1,Male,Palm & Finger,Eczema
+Eczema (EC),P_227,EC (393),1,Male,Belly,Eczema
+Eczema (EC),P_227,EC (394),1,Male,Belly,Eczema
+Eczema (EC),P_227,EC (395),1,Male,Belly,Eczema
+Eczema (EC),P_228,EC (396),7,Male,Finger,Eczema
+Eczema (EC),P_229,EC (397),21,Male,Shin,Eczema
+Eczema (EC),P_229,EC (398),21,Male,Shin,Eczema
+Eczema (EC),P_229,EC (399),21,Male,Shin,Eczema
+Eczema (EC),P_229,EC (400),21,Male,Shin,Eczema
+Eczema (EC),P_229,EC (401),21,Male,Shin,Eczema
+Eczema (EC),P_230,EC (402),24,Male,Foot,Eczema
+Eczema (EC),P_230,EC (403),24,Male,Foot,Eczema
+Eczema (EC),P_230,EC (404),24,Male,Foot,Eczema
+Eczema (EC),P_230,EC (405),24,Male,Forearm,Eczema
+Eczema (EC),P_231,EC (406),65,Female,Foot,Eczema
+Eczema (EC),P_231,EC (407),65,Female,Foot,Eczema
+Eczema (EC),P_231,EC (408),65,Female,Foot,Eczema
+Eczema (EC),P_232,EC (409),10,Male,Ear,Eczema
+Eczema (EC),P_232,EC (410),10,Male,Ear,Eczema
+Eczema (EC),P_232,EC (411),10,Male,Ear,Eczema
+Eczema (EC),P_232,EC (412),10,Male,Ear,Eczema
+Eczema (EC),P_232,EC (413),10,Male,Ear,Eczema
+Eczema (EC),P_232,EC (414),10,Male,Finger,Eczema
+Eczema (EC),P_232,EC (415),10,Male,Finger,Eczema
+Eczema (EC),P_232,EC (416),10,Male,Finger,Eczema
+Eczema (EC),P_232,EC (417),10,Male,Finger,Eczema
+Eczema (EC),P_232,EC (418),10,Male,Finger,Eczema
+Eczema (EC),P_232,EC (419),10,Male,Finger,Eczema
+Eczema (EC),P_233,EC (420),35,Female,Foot,Eczema
+Eczema (EC),P_233,EC (421),35,Female,Foot,Eczema
+Eczema (EC),P_233,EC (422),35,Female,Foot,Eczema
+Eczema (EC),P_233,EC (423),35,Female,Foot,Eczema
+Eczema (EC),P_233,EC (424),35,Female,Foot,Eczema
+Eczema (EC),P_233,EC (425),35,Female,Foot,Eczema
+Eczema (EC),P_234,EC (426),2.5,Male,Ear,Eczema
+Eczema (EC),P_234,EC (427),2.5,Male,Ear,Eczema
+Eczema (EC),P_234,EC (428),2.5,Male,Ear,Eczema
+Eczema (EC),P_234,EC (429),2.5,Male,Ear,Eczema
+Eczema (EC),P_235,EC (430),10,Male,Foot,Eczema
+Eczema (EC),P_235,EC (431),10,Male,Foot,Eczema
+Eczema (EC),P_235,EC (432),10,Male,Foot,Eczema
+Eczema (EC),P_235,EC (433),10,Male,Foot,Eczema
+Eczema (EC),P_235,EC (434),10,Male,Foot,Eczema
+Eczema (EC),P_235,EC (435),10,Male,Foot,Eczema
+Eczema (EC),P_235,EC (436),10,Male,Foot,Eczema
+Eczema (EC),P_235,EC (437),10,Male,Foot,Eczema
+Eczema (EC),P_236,EC (438),4,Female,Toe,Eczema
+Eczema (EC),P_236,EC (439),4,Female,Toe,Eczema
+Eczema (EC),P_236,EC (440),4,Female,Foot,Eczema
+Eczema (EC),P_237,EC (441),5,Male,Finger,Eczema
+Eczema (EC),P_237,EC (442),5,Male,Finger,Eczema
+Eczema (EC),P_237,EC (443),5,Male,Finger,Eczema
+Eczema (EC),P_237,EC (444),5,Male,Finger,Eczema
+Eczema (EC),P_237,EC (445),5,Male,Finger,Eczema
+Eczema (EC),P_237,EC (446),5,Male,Finger,Eczema
+Eczema (EC),P_237,EC (447),5,Male,Finger,Eczema
+Eczema (EC),P_237,EC (448),5,Male,Finger,Eczema
+Eczema (EC),P_238,EC (449),20,Female,Belly,Eczema
+Eczema (EC),P_238,EC (450),20,Female,Belly,Eczema
+Eczema (EC),P_238,EC (451),20,Female,Belly,Eczema
+Eczema (EC),P_238,EC (452),20,Female,Belly,Eczema
+Eczema (EC),P_238,EC (453),20,Female,Belly,Eczema
+Eczema (EC),P_238,EC (454),20,Female,Belly,Eczema
+Eczema (EC),P_239,EC (455),10,Male,Foot,Eczema
+Eczema (EC),P_239,EC (456),10,Male,Foot,Eczema
+Eczema (EC),P_240,EC (457),28,Male,Foot,Eczema
+Eczema (EC),P_240,EC (458),28,Male,Foot,Eczema
+Eczema (EC),P_240,EC (459),28,Male,Foot,Eczema
+Eczema (EC),P_240,EC (460),28,Male,Foot,Eczema
+Eczema (EC),P_240,EC (461),28,Male,Foot,Eczema
+Eczema (EC),P_240,EC (462),28,Male,Foot,Eczema
+Eczema (EC),P_240,EC (463),28,Male,Foot,Eczema
+Eczema (EC),P_240,EC (464),28,Male,Foot,Eczema
+Eczema (EC),P_240,EC (465),28,Male,Foot,Eczema
+Eczema (EC),P_240,EC (466),28,Male,Foot,Eczema
+Scabies (SC),P_241,SC (1),16,Female,Hand,Scabies
+Scabies (SC),P_241,SC (2),16,Female,Hand,Scabies
+Scabies (SC),P_241,SC (3),16,Female,Hand,Scabies
+Scabies (SC),P_242,SC (4),8,Male,Hand,Scabies
+Scabies (SC),P_242,SC (5),8,Male,Hand,Scabies
+Scabies (SC),P_242,SC (6),8,Male,Hand,Scabies
+Scabies (SC),P_242,SC (7),8,Male,Hand,Scabies
+Scabies (SC),P_242,SC (8),8,Male,Hand,Scabies
+Scabies (SC),P_242,SC (9),8,Male,Hand,Scabies
+Scabies (SC),P_242,SC (10),8,Male,Hand,Scabies
+Scabies (SC),P_242,SC (11),8,Male,Hand,Scabies
+Scabies (SC),P_242,SC (12),8,Male,Hand,Scabies
+Scabies (SC),P_242,SC (13),8,Male,Hand,Scabies
+Scabies (SC),P_242,SC (14),8,Male,Hand,Scabies
+Scabies (SC),P_242,SC (15),8,Male,Hand,Scabies
+Scabies (SC),P_243,SC (16),7,Female,Hand,Scabies
+Scabies (SC),P_243,SC (17),7,Female,Hand,Scabies
+Scabies (SC),P_244,SC (18),6,Male,Hand,Scabies
+Scabies (SC),P_244,SC (19),6,Male,Hand,Scabies
+Scabies (SC),P_244,SC (20),6,Male,Hand,Scabies
+Scabies (SC),P_244,SC (21),6,Male,Hand,Scabies
+Scabies (SC),P_244,SC (22),6,Male,Hand,Scabies
+Scabies (SC),P_245,SC (23),12,Female,Hand,Scabies
+Scabies (SC),P_245,SC (24),12,Female,Hand,Scabies
+Scabies (SC),P_245,SC (25),12,Female,Hand,Scabies
+Scabies (SC),P_245,SC (26),12,Female,Hand,Scabies
+Scabies (SC),P_245,SC (27),12,Female,Forearm,Scabies
+Scabies (SC),P_245,SC (28),12,Female,Forearm,Scabies
+Scabies (SC),P_246,SC (29),0.1,Male,Hand,Scabies
+Scabies (SC),P_247,SC (30),8,Male,Hand,Scabies
+Scabies (SC),P_247,SC (31),8,Male,Hand,Scabies
+Scabies (SC),P_247,SC (32),8,Male,Hand,Scabies
+Scabies (SC),P_247,SC (33),8,Male,Hand,Scabies
+Scabies (SC),P_247,SC (34),8,Male,Hand,Scabies
+Scabies (SC),P_247,SC (35),8,Male,Hand,Scabies
+Scabies (SC),P_248,SC (36),13,Male,Hand,Scabies
+Scabies (SC),P_248,SC (37),13,Male,Hand,Scabies
+Scabies (SC),P_248,SC (38),13,Male,Hand,Scabies
+Scabies (SC),P_248,SC (39),13,Male,Hand,Scabies
+Scabies (SC),P_248,SC (40),13,Male,Hand,Scabies
+Scabies (SC),P_248,SC (41),13,Male,Hand,Scabies
+Scabies (SC),P_249,SC (42),25,Male,Hand,Scabies
+Scabies (SC),P_249,SC (43),25,Male,Hand,Scabies
+Scabies (SC),P_249,SC (44),25,Male,Hand,Scabies
+Scabies (SC),P_249,SC (45),25,Male,Hand,Scabies
+Scabies (SC),P_249,SC (46),25,Male,Hand,Scabies
+Scabies (SC),P_250,SC (47),2.5,Male,Forearm,Scabies
+Scabies (SC),P_250,SC (48),2.5,Male,Forearm,Scabies
+Scabies (SC),P_250,SC (49),2.5,Male,Forearm,Scabies
+Scabies (SC),P_250,SC (50),2.5,Male,Forearm,Scabies
+Scabies (SC),P_250,SC (51),2.5,Male,Forearm,Scabies
+Scabies (SC),P_250,SC (52),2.5,Male,Hand,Scabies
+Scabies (SC),P_250,SC (53),2.5,Male,Hand,Scabies
+Scabies (SC),P_250,SC (54),2.5,Male,Hand,Scabies
+Scabies (SC),P_251,SC (55),3,Male,Hand,Scabies
+Scabies (SC),P_251,SC (56),3,Male,Hand,Scabies
+Scabies (SC),P_252,SC (57),6,Male,Hand,Scabies
+Scabies (SC),P_252,SC (58),6,Male,Hand,Scabies
+Scabies (SC),P_253,SC (59),2,Male,Belly,Scabies
+Scabies (SC),P_253,SC (60),2,Male,Belly,Scabies
+Scabies (SC),P_254,SC (61),26,Male,Hand,Scabies
+Scabies (SC),P_254,SC (62),26,Male,Hand,Scabies
+Scabies (SC),P_254,SC (63),26,Male,Hand,Scabies
+Scabies (SC),P_254,SC (64),26,Male,Hand,Scabies
+Scabies (SC),P_254,SC (65),26,Male,Hand,Scabies
+Scabies (SC),P_255,SC (66),11,Female,Palm,Scabies
+Scabies (SC),P_255,SC (67),11,Female,Palm,Scabies
+Scabies (SC),P_255,SC (68),11,Female,Palm,Scabies
+Scabies (SC),P_255,SC (69),11,Female,Palm,Scabies
+Scabies (SC),P_256,SC (70),6,Female,Hand,Scabies
+Scabies (SC),P_256,SC (71),6,Female,Hand,Scabies
+Scabies (SC),P_257,SC (72),20,Female,Hand,Scabies
+Scabies (SC),P_257,SC (73),20,Female,Hand,Scabies
+Scabies (SC),P_257,SC (74),20,Female,Hand,Scabies
+Scabies (SC),P_257,SC (75),20,Female,Hand,Scabies
+Scabies (SC),P_257,SC (76),20,Female,Hand,Scabies
+Scabies (SC),P_257,SC (77),20,Female,Hand,Scabies
+Scabies (SC),P_257,SC (78),20,Female,Hand,Scabies
+Scabies (SC),P_257,SC (79),20,Female,Hand,Scabies
+Scabies (SC),P_258,SC (80),3,Female,Hand,Scabies
+Scabies (SC),P_258,SC (81),3,Female,Leg,Scabies
+Scabies (SC),P_258,SC (82),3,Female,Leg,Scabies
+Scabies (SC),P_258,SC (83),3,Female,Hand,Scabies
+Scabies (SC),P_258,SC (84),3,Female,Hand,Scabies
+Scabies (SC),P_259,SC (85),27,Male,Hand,Scabies
+Scabies (SC),P_259,SC (86),27,Male,Hand,Scabies
+Scabies (SC),P_259,SC (87),27,Male,Hand,Scabies
+Scabies (SC),P_259,SC (88),27,Male,Hand,Scabies
+Scabies (SC),P_259,SC (89),27,Male,Hand,Scabies
+Scabies (SC),P_260,SC (90),32,Male,Arm,Scabies
+Scabies (SC),P_261,SC (91),1.5,Male,Palm,Scabies
+Scabies (SC),P_261,SC (92),1.5,Male,Hand,Scabies
+Scabies (SC),P_262,SC (93),80,Female,Palm,Scabies
+Scabies (SC),P_262,SC (94),80,Female,Palm,Scabies
+Scabies (SC),P_262,SC (95),80,Female,Palm,Scabies
+Scabies (SC),P_262,SC (96),80,Female,Palm,Scabies
+Scabies (SC),P_262,SC (97),80,Female,Palm,Scabies
+Scabies (SC),P_262,SC (98),80,Female,Palm,Scabies
+Scabies (SC),P_262,SC (99),80,Female,Palm,Scabies
+Scabies (SC),P_262,SC (100),80,Female,Palm,Scabies
+Scabies (SC),P_262,SC (101),80,Female,Palm,Scabies
+Scabies (SC),P_262,SC (102),80,Female,Palm,Scabies
+Scabies (SC),P_263,SC (103),31,Female,Forearm,Scabies
+Scabies (SC),P_263,SC (104),31,Female,Forearm,Scabies
+Scabies (SC),P_263,SC (105),31,Female,Forearm,Scabies
+Scabies (SC),P_264,SC (106),26,Male,Arm,Scabies
+Scabies (SC),P_265,SC (107),30,Female,Leg,Scabies
+Scabies (SC),P_266,SC (108),2.5,Male,Hand,Scabies
+Scabies (SC),P_266,SC (109),2.5,Male,Hand,Scabies
+Scabies (SC),P_267,SC (110),30,Female,Arm,Scabies
+Scabies (SC),P_267,SC (111),30,Female,Arm,Scabies
+Scabies (SC),P_267,SC (112),30,Female,Hand,Scabies
+Scabies (SC),P_268,SC (113),2,Female,Palm,Scabies
+Scabies (SC),P_268,SC (114),2,Female,Palm,Scabies
+Scabies (SC),P_268,SC (115),2,Female,Palm,Scabies
+Scabies (SC),P_268,SC (116),2,Female,Palm,Scabies
+Scabies (SC),P_269,SC (117),6,Female,Finger,Scabies
+Scabies (SC),P_269,SC (118),6,Female,Finger,Scabies
+Scabies (SC),P_269,SC (119),6,Female,Finger,Scabies
+Scabies (SC),P_269,SC (120),6,Female,Finger,Scabies
+Scabies (SC),P_269,SC (121),6,Female,Finger,Scabies
+Scabies (SC),P_269,SC (122),6,Female,Finger,Scabies
+Scabies (SC),P_269,SC (123),0.4,Female,Foot,Scabies
+Scabies (SC),P_270,SC (124),30,Female,Forearm,Scabies
+Scabies (SC),P_270,SC (125),30,Female,Forearm,Scabies
+Scabies (SC),P_270,SC (126),30,Female,Forearm,Scabies
+Scabies (SC),P_270,SC (127),30,Female,Forearm,Scabies
+Scabies (SC),P_271,SC (128),60,Female,Forearm,Scabies
+Scabies (SC),P_272,SC (129),0.6,Female,Finger,Scabies
+Scabies (SC),P_273,SC (130),23,Male,Finger,Scabies
+Scabies (SC),P_273,SC (131),23,Male,Finger,Scabies
+Scabies (SC),P_273,SC (132),23,Male,Finger,Scabies
+Scabies (SC),P_273,SC (133),23,Male,Finger,Scabies
+Scabies (SC),P_274,SC (134),7,Female,Finger,Scabies
+Scabies (SC),P_274,SC (135),7,Female,Finger,Scabies
+Scabies (SC),P_275,SC (136),22,Female,Forearm,Scabies
+Scabies (SC),P_275,SC (137),22,Female,Forearm,Scabies
+Scabies (SC),P_275,SC (138),22,Female,Forearm,Scabies
+Scabies (SC),P_275,SC (139),22,Female,Forearm,Scabies
+Scabies (SC),P_276,SC (140),2,Male,Back,Scabies
+Scabies (SC),P_276,SC (141),2,Male,Hip,Scabies
+Scabies (SC),P_277,SC (142),1,Female,Leg,Scabies
+Scabies (SC),P_277,SC (143),1,Female,Leg,Scabies
+Scabies (SC),P_278,SC (144),12,Male,Hand,Scabies
+Scabies (SC),P_278,SC (145),12,Male,Hand,Scabies
+Scabies (SC),P_278,SC (146),12,Male,Hand,Scabies
+Scabies (SC),P_278,SC (147),12,Male,Hand,Scabies
+Scabies (SC),P_278,SC (148),12,Male,Hand,Scabies
+Scabies (SC),P_278,SC (149),12,Male,Leg,Scabies
+Scabies (SC),P_278,SC (150),12,Male,Leg,Scabies
+Scabies (SC),P_279,SC (151),20,Female,Forearm,Scabies
+Scabies (SC),P_279,SC (152),20,Female,Forearm,Scabies
+Scabies (SC),P_279,SC (153),20,Female,Forearm,Scabies
+Scabies (SC),P_279,SC (154),20,Female,Forearm,Scabies
+Scabies (SC),P_280,SC (155),32,Female,Leg,Scabies
+Scabies (SC),P_280,SC (156),32,Female,Leg,Scabies
+Scabies (SC),P_280,SC (157),32,Female,Leg,Scabies
+Scabies (SC),P_281,SC (158),14,Female,Hand,Scabies
+Scabies (SC),P_281,SC (159),14,Female,Hand,Scabies
+Scabies (SC),P_281,SC (160),14,Female,Hand,Scabies
+Scabies (SC),P_281,SC (161),14,Female,Hand,Scabies
+Scabies (SC),P_281,SC (162),14,Female,Hand,Scabies
+Scabies (SC),P_282,SC (163),17,Female,Hand,Scabies
+Scabies (SC),P_282,SC (164),17,Female,Hand,Scabies
+Scabies (SC),P_283,SC (165),6,Female,Hand,Scabies
+Scabies (SC),P_283,SC (166),6,Female,Hand,Scabies
+Scabies (SC),P_283,SC (167),6,Female,Hand,Scabies
+Scabies (SC),P_284,SC (168),9,Female,Hand,Scabies
+Scabies (SC),P_284,SC (169),9,Female,Hand,Scabies
+Scabies (SC),P_284,SC (170),9,Female,Hand,Scabies
+Scabies (SC),P_285,SC (171),22,Male,Leg,Scabies
+Scabies (SC),P_285,SC (172),22,Male,Leg,Scabies
+Scabies (SC),P_286,SC (173),12,Female,Hand,Scabies
+Scabies (SC),P_286,SC (174),12,Female,Hand,Scabies
+Scabies (SC),P_287,SC (175),1.6,Male,Foot,Scabies
+Scabies (SC),P_288,SC (176),17,Male,Forearm,Scabies
+Scabies (SC),P_288,SC (177),17,Male,Forearm,Scabies
+Scabies (SC),P_289,SC (178),13,Male,Forearm,Scabies
+Scabies (SC),P_289,SC (179),13,Male,Forearm,Scabies
+Scabies (SC),P_289,SC (180),13,Male,Forearm,Scabies
+Scabies (SC),P_289,SC (181),13,Male,Forearm,Scabies
+Scabies (SC),P_290,SC (182),42,Female,Leg,Scabies
+Scabies (SC),P_291,SC (183),8,Female,Hand,Scabies
+Scabies (SC),P_291,SC (184),8,Female,Hand,Scabies
+Scabies (SC),P_291,SC (185),8,Female,Hand,Scabies
+Scabies (SC),P_292,SC (186),16,Male,Palm,Scabies
+Scabies (SC),P_292,SC (187),16,Male,Palm,Scabies
+Scabies (SC),P_292,SC (188),16,Male,Palm,Scabies
+Scabies (SC),P_292,SC (189),16,Male,Palm,Scabies
+Scabies (SC),P_292,SC (190),16,Male,Palm,Scabies
+Scabies (SC),P_292,SC (191),16,Male,Palm,Scabies
+Scabies (SC),P_293,SC (192),12,Male,Hand & Finger,Scabies
+Scabies (SC),P_293,SC (193),12,Male,Hand & Finger,Scabies
+Scabies (SC),P_293,SC (194),12,Male,Hand & Finger,Scabies
+Scabies (SC),P_293,SC (195),12,Male,Hand & Finger,Scabies
+Scabies (SC),P_293,SC (196),12,Male,Hand & Finger,Scabies
+Scabies (SC),P_293,SC (197),12,Male,Hand & Finger,Scabies
+Scabies (SC),P_294,SC (198),60,Male,Forearm,Scabies
+Scabies (SC),P_295,SC (199),16,Male,Forearm,Scabies
+Scabies (SC),P_295,SC (200),16,Male,Forearm,Scabies
+Scabies (SC),P_296,SC (201),10,Female, Finger,Scabies
+Scabies (SC),P_296,SC (202),10,Female, Finger,Scabies
+Scabies (SC),P_296,SC (203),10,Female, Finger,Scabies
+Scabies (SC),P_296,SC (204),10,Female,Hand ,Scabies
+Scabies (SC),P_296,SC (205),10,Female, Finger,Scabies
+Scabies (SC),P_296,SC (206),10,Female, Finger,Scabies
+Scabies (SC),P_297,SC (207),8,Female,Hand ,Scabies
+Scabies (SC),P_297,SC (208),8,Female,Hand ,Scabies
+Scabies (SC),P_297,SC (209),8,Female,Hand ,Scabies
+Scabies (SC),P_297,SC (210),8,Female,Hand ,Scabies
+Scabies (SC),P_297,SC (211),8,Female,Hand ,Scabies
+Scabies (SC),P_297,SC (212),8,Female,Palm,Scabies
+Scabies (SC),P_297,SC (213),8,Female,Palm,Scabies
+Scabies (SC),P_297,SC (214),8,Female,Palm,Scabies
+Scabies (SC),P_297,SC (215),8,Female,Palm,Scabies
+Scabies (SC),P_297,SC (216),8,Female,Palm,Scabies
+Scabies (SC),P_297,SC (217),8,Female,Palm,Scabies
+Scabies (SC),P_297,SC (218),8,Female,Palm,Scabies
+Scabies (SC),P_297,SC (219),8,Female,Hand & Finger,Scabies
+Scabies (SC),P_297,SC (220),8,Female,Hand & Finger,Scabies
+Scabies (SC),P_297,SC (221),8,Female,Hand & Finger,Scabies
+Scabies (SC),P_297,SC (222),8,Female,Hand & Finger,Scabies
+Scabies (SC),P_298,SC (223),7,Female,Hand,Scabies
+Scabies (SC),P_298,SC (224),7,Female,Hand,Scabies
+Scabies (SC),P_298,SC (225),7,Female,Hand,Scabies
+Scabies (SC),P_298,SC (226),7,Female,Hand,Scabies
+Scabies (SC),P_298,SC (227),7,Female,Forearm,Scabies
+Scabies (SC),P_298,SC (228),7,Female,Forearm,Scabies
+Scabies (SC),P_298,SC (229),7,Female,Forearm,Scabies
+Scabies (SC),P_298,SC (230),7,Female,Forearm,Scabies
+Scabies (SC),P_298,SC (231),7,Female,Hand,Scabies
+Scabies (SC),P_298,SC (232),7,Female,Hand,Scabies
+Scabies (SC),P_298,SC (233),7,Female,Hand,Scabies
+Scabies (SC),P_298,SC (234),7,Female,Hand,Scabies
+Scabies (SC),P_298,SC (235),7,Female,Hand,Scabies
+Scabies (SC),P_298,SC (236),7,Female,Hand,Scabies
+Scabies (SC),P_298,SC (237),7,Female,Hand,Scabies
+Scabies (SC),P_299,SC (238),8,Female,Hand,Scabies
+Scabies (SC),P_299,SC (239),8,Female,Palm,Scabies
+Scabies (SC),P_299,SC (240),8,Female,Palm,Scabies
+Scabies (SC),P_299,SC (241),8,Female,Palm,Scabies
+Scabies (SC),P_300,SC (242),2,Male,Foot & Leg,Scabies
+Scabies (SC),P_300,SC (243),2,Male,Foot & Leg,Scabies
+Scabies (SC),P_300,SC (244),2,Male,Foot & Leg,Scabies
+Scabies (SC),P_301,SC (245),11,Male,Hand,Scabies
+Scabies (SC),P_301,SC (246),11,Male,Hand,Scabies
+Scabies (SC),P_302,SC (247),36,Male,Hand,Scabies
+Scabies (SC),P_302,SC (248),36,Male,Hand,Scabies
+Scabies (SC),P_302,SC (249),36,Male,Hand,Scabies
+Scabies (SC),P_303,SC (250),0.6,Female,Hand,Scabies
+Scabies (SC),P_304,SC (251),2.5,Male,Back,Scabies
+Scabies (SC),P_304,SC (252),2.5,Male,Back,Scabies
+Scabies (SC),P_304,SC (253),2.5,Male,Back,Scabies
+Scabies (SC),P_305,SC (254),8,Male,Forearm,Scabies
+Scabies (SC),P_305,SC (255),8,Male,Forearm,Scabies
+Scabies (SC),P_305,SC (256),8,Male,Forearm,Scabies
+Scabies (SC),P_306,SC (257),1,Male,Leg,Scabies
+Scabies (SC),P_307,SC (258),32,Male,Hand,Scabies
+Scabies (SC),P_308,SC (259),20,Female,Hand,Scabies
+Scabies (SC),P_308,SC (260),20,Female,Hand,Scabies
+Scabies (SC),P_308,SC (261),20,Female,Hand,Scabies
+Scabies (SC),P_309,SC (262),2,Female,Back,Scabies
+Scabies (SC),P_309,SC (263),2,Female,Back,Scabies
+Scabies (SC),P_309,SC (264),2,Female,Back,Scabies
+Scabies (SC),P_309,SC (265),2,Female,Back,Scabies
+Scabies (SC),P_309,SC (266),2,Female,Back,Scabies
+Scabies (SC),P_310,SC (267),9,Male,Finger,Scabies
+Scabies (SC),P_310,SC (268),9,Male,Palm,Scabies
+Scabies (SC),P_310,SC (269),9,Male,Palm,Scabies
+Scabies (SC),P_311,SC (270),16,Male,Leg,Scabies
+Scabies (SC),P_312,SC (271),45,Female,Palm,Scabies
+Scabies (SC),P_312,SC (272),45,Female,Palm,Scabies
+Scabies (SC),P_313,SC (273),50,Male,Toe,Scabies
+Scabies (SC),P_313,SC (274),50,Male,Toe,Scabies
+Scabies (SC),P_313,SC (275),50,Male,Toe,Scabies
+Scabies (SC),P_314,SC (276),15,Male,Hand,Scabies
+Scabies (SC),P_314,SC (277),15,Male,Hand,Scabies
+Scabies (SC),P_315,SC (278),16,Male,Forearm,Scabies
+Scabies (SC),P_315,SC (279),16,Male,Forearm,Scabies
+Scabies (SC),P_315,SC (280),16,Male,Forearm,Scabies
+Scabies (SC),P_315,SC (281),16,Male,Forearm,Scabies
+Scabies (SC),P_315,SC (282),16,Male,Forearm,Scabies
+Scabies (SC),P_316,SC (283),8,Female,Hand,Scabies
+Scabies (SC),P_316,SC (284),8,Female,Hand,Scabies
+Scabies (SC),P_316,SC (285),8,Female,Hand,Scabies
+Scabies (SC),P_317,SC (286),0.6,Female,Arm,Scabies
+Scabies (SC),P_317,SC (287),0.6,Female,Forearm,Scabies
+Scabies (SC),P_317,SC (288),0.6,Female,Forearm,Scabies
+Scabies (SC),P_317,SC (289),0.6,Female,Arm,Scabies
+Scabies (SC),P_318,SC (290),14,Female,Forearm,Scabies
+Scabies (SC),P_319,SC (291),21,Male,Finger,Scabies
+Scabies (SC),P_319,SC (292),21,Male,Hand,Scabies
+Scabies (SC),P_320,SC (293),8,Male,Hand,Scabies
+Scabies (SC),P_320,SC (294),8,Male,Finger,Scabies
+Scabies (SC),P_320,SC (295),8,Male,Hand,Scabies
+Scabies (SC),P_321,SC (296),14,Male,Hand,Scabies
+Scabies (SC),P_321,SC (297),14,Male,Hand,Scabies
+Scabies (SC),P_321,SC (298),14,Male,Finger,Scabies
+Scabies (SC),P_321,SC (299),14,Male,Hand,Scabies
+Scabies (SC),P_321,SC (300),14,Male,Hand,Scabies
+Scabies (SC),P_321,SC (301),14,Male,Finger,Scabies
+Scabies (SC),P_321,SC (302),14,Male,Finger,Scabies
+Scabies (SC),P_321,SC (303),14,Male,Leg,Scabies
+Scabies (SC),P_321,SC (304),14,Male,Leg,Scabies
+Scabies (SC),P_321,SC (305),14,Male,Knee,Scabies
+Scabies (SC),P_321,SC (306),14,Male,Finger,Scabies
+Scabies (SC),P_321,SC (307),14,Male,Finger,Scabies
+Scabies (SC),P_322,SC (308),0.2,Male,Leg,Scabies
+Scabies (SC),P_322,SC (309),0.2,Male,Leg,Scabies
+Scabies (SC),P_322,SC (310),0.2,Male,Belly,Scabies
+Scabies (SC),P_322,SC (311),0.2,Male,Belly,Scabies
+Scabies (SC),P_322,SC (312),0.2,Male,Shin,Scabies
+Scabies (SC),P_322,SC (313),0.2,Male,Shin,Scabies
+Scabies (SC),P_322,SC (314),0.2,Male,Belly,Scabies
+Scabies (SC),P_322,SC (315),0.2,Male,Belly,Scabies
+Scabies (SC),P_322,SC (316),0.2,Male,Belly,Scabies
+Scabies (SC),P_322,SC (317),0.2,Male,Belly,Scabies
+Scabies (SC),P_323,SC (318),15,Female,Hand,Scabies
+Scabies (SC),P_323,SC (319),15,Female,Finger,Scabies
+Scabies (SC),P_323,SC (320),15,Female,Finger,Scabies
+Scabies (SC),P_324,SC (321),16,Male,Hand,Scabies
+Scabies (SC),P_324,SC (322),16,Male,Finger,Scabies
+Scabies (SC),P_324,SC (323),16,Male,Finger,Scabies
+Scabies (SC),P_324,SC (324),16,Male,Finger,Scabies
+Scabies (SC),P_324,SC (325),16,Male,Finger,Scabies
+Scabies (SC),P_325,SC (326),0.3,Male,Toe,Scabies
+Scabies (SC),P_325,SC (327),0.3,Male,Toe,Scabies
+Scabies (SC),P_325,SC (328),0.3,Male,Foot,Scabies
+Scabies (SC),P_325,SC (329),0.3,Male,Foot,Scabies
+Scabies (SC),P_326,SC (330),14,Male,Hand,Scabies
+Scabies (SC),P_326,SC (331),14,Male,Hand,Scabies
+Scabies (SC),P_326,SC (332),14,Male,Hand,Scabies
+Scabies (SC),P_326,SC (333),14,Male,Hand,Scabies
+Scabies (SC),P_326,SC (334),14,Male,Hand,Scabies
+Scabies (SC),P_327,SC (335),15,Female,Finger,Scabies
+Scabies (SC),P_327,SC (336),15,Female,Hand,Scabies
+Scabies (SC),P_328,SC (337),12,Male,Hand,Scabies
+Scabies (SC),P_328,SC (338),12,Male,Hand,Scabies
+Scabies (SC),P_328,SC (339),12,Male,Hand,Scabies
+Scabies (SC),P_328,SC (340),12,Male,Hand,Scabies
+Scabies (SC),P_329,SC (341),16,Male,Finger,Scabies
+Scabies (SC),P_330,SC (342),14,Male,Hand,Scabies
+Scabies (SC),P_330,SC (343),14,Male,Hand,Scabies
+Seborrheic Dermatitis (SD),P_331,SD (1),8,Female,Head,Seborrheic Dermatitis
+Seborrheic Dermatitis (SD),P_331,SD (2),8,Female,Head,Seborrheic Dermatitis
+Seborrheic Dermatitis (SD),P_331,SD (3),8,Female,Head,Seborrheic Dermatitis
+Seborrheic Dermatitis (SD),P_331,SD (4),8,Female,Head,Seborrheic Dermatitis
+Seborrheic Dermatitis (SD),P_331,SD (5),8,Female,Head,Seborrheic Dermatitis
+Seborrheic Dermatitis (SD),P_331,SD (6),8,Female,Head,Seborrheic Dermatitis
+Seborrheic Dermatitis (SD),P_332,SD (7),60,Male,Back,Seborrheic Dermatitis
+Seborrheic Dermatitis (SD),P_332,SD (8),60,Male,Back,Seborrheic Dermatitis
+Seborrheic Dermatitis (SD),P_332,SD (9),60,Male,Back,Seborrheic Dermatitis
+Seborrheic Dermatitis (SD),P_332,SD (10),60,Male,Back,Seborrheic Dermatitis
+Seborrheic Dermatitis (SD),P_333,SD (11),20,Male,Face,Seborrheic Dermatitis
+Seborrheic Dermatitis (SD),P_333,SD (12),20,Male,Face,Seborrheic Dermatitis
+Seborrheic Dermatitis (SD),P_333,SD (13),20,Male,Face,Seborrheic Dermatitis
+Seborrheic Dermatitis (SD),P_333,SD (14),20,Male,Face,Seborrheic Dermatitis
+Seborrheic Dermatitis (SD),P_333,SD (15),20,Male,Face,Seborrheic Dermatitis
+Seborrheic Dermatitis (SD),P_333,SD (16),20,Male,Face,Seborrheic Dermatitis
+Seborrheic Dermatitis (SD),P_334,SD (17),26,Female,Foot,Seborrheic Dermatitis
+Seborrheic Dermatitis (SD),P_334,SD (18),26,Female,Foot,Seborrheic Dermatitis
+Seborrheic Dermatitis (SD),P_334,SD (19),26,Female,Foot,Seborrheic Dermatitis
+Seborrheic Dermatitis (SD),P_335,SD (20),6,Male,Head,Seborrheic Dermatitis
+Seborrheic Dermatitis (SD),P_335,SD (21),6,Male,Head,Seborrheic Dermatitis
+Seborrheic Dermatitis (SD),P_335,SD (22),6,Male,Head,Seborrheic Dermatitis
+Seborrheic Dermatitis (SD),P_335,SD (23),6,Male,Head,Seborrheic Dermatitis
+Seborrheic Dermatitis (SD),P_336,SD (24),2.5,Male,Head,Seborrheic Dermatitis
+Seborrheic Dermatitis (SD),P_336,SD (25),2.5,Male,Head,Seborrheic Dermatitis
+Seborrheic Dermatitis (SD),P_336,SD (26),2.5,Male,Head,Seborrheic Dermatitis
+Seborrheic Dermatitis (SD),P_336,SD (27),2.5,Male,Head,Seborrheic Dermatitis
+Seborrheic Dermatitis (SD),P_336,SD (28),2.5,Male,Head,Seborrheic Dermatitis
+Seborrheic Dermatitis (SD),P_337,SD (29),6,Female,Neck,Seborrheic Dermatitis
+Seborrheic Dermatitis (SD),P_338,SD (30),25,Female,Back,Seborrheic Dermatitis
+Seborrheic Dermatitis (SD),P_338,SD (31),25,Female,Back,Seborrheic Dermatitis
+Seborrheic Dermatitis (SD),P_338,SD (32),25,Female,Back,Seborrheic Dermatitis
+Seborrheic Dermatitis (SD),P_339,SD (33),55,Female,Belly,Seborrheic Dermatitis
+Seborrheic Dermatitis (SD),P_339,SD (34),55,Female,Belly,Seborrheic Dermatitis
+Seborrheic Dermatitis (SD),P_339,SD (35),55,Female,Arm,Seborrheic Dermatitis
+Seborrheic Dermatitis (SD),P_339,SD (36),55,Female,Arm,Seborrheic Dermatitis
+Seborrheic Dermatitis (SD),P_339,SD (37),55,Female,Forearm,Seborrheic Dermatitis
+Seborrheic Dermatitis (SD),P_339,SD (38),55,Female,Forearm,Seborrheic Dermatitis
+Seborrheic Dermatitis (SD),P_339,SD (39),55,Female,Forearm,Seborrheic Dermatitis
+Seborrheic Dermatitis (SD),P_339,SD (40),55,Female,Forearm,Seborrheic Dermatitis
+Seborrheic Dermatitis (SD),P_339,SD (41),55,Female,Forearm,Seborrheic Dermatitis
+Seborrheic Dermatitis (SD),P_339,SD (42),55,Female,Forearm,Seborrheic Dermatitis
+Seborrheic Dermatitis (SD),P_339,SD (43),55,Female,Forearm,Seborrheic Dermatitis
+Seborrheic Dermatitis (SD),P_339,SD (44),55,Female,Forearm,Seborrheic Dermatitis
+Seborrheic Dermatitis (SD),P_339,SD (45),55,Female,Forearm,Seborrheic Dermatitis
+Seborrheic Dermatitis (SD),P_339,SD (46),55,Female,Forearm,Seborrheic Dermatitis
+Seborrheic Dermatitis (SD),P_339,SD (47),55,Female,Forearm,Seborrheic Dermatitis
+Seborrheic Dermatitis (SD),P_339,SD (48),55,Female,Forearm,Seborrheic Dermatitis
+Seborrheic Dermatitis (SD),P_339,SD (49),55,Female,Forearm,Seborrheic Dermatitis
+Seborrheic Dermatitis (SD),P_340,SD (50),32,Female,Neck,Seborrheic Dermatitis
+Seborrheic Dermatitis (SD),P_340,SD (51),32,Female,Neck,Seborrheic Dermatitis
+Seborrheic Dermatitis (SD),P_341,SD (52),35,Female,Toe_Nail,Seborrheic Dermatitis
+Seborrheic Dermatitis (SD),P_341,SD (53),35,Female,Toe_Nail,Seborrheic Dermatitis
+Seborrheic Dermatitis (SD),P_341,SD (54),35,Female,Toe_Nail,Seborrheic Dermatitis
+Seborrheic Dermatitis (SD),P_341,SD (55),35,Female,Leg,Seborrheic Dermatitis
+Seborrheic Dermatitis (SD),P_341,SD (56),35,Female,Leg,Seborrheic Dermatitis
+Seborrheic Dermatitis (SD),P_342,SD (57),40,Female,Forearm,Seborrheic Dermatitis
+Seborrheic Dermatitis (SD),P_342,SD (58),40,Female,Forearm,Seborrheic Dermatitis
+Seborrheic Dermatitis (SD),P_342,SD (59),40,Female,Forearm,Seborrheic Dermatitis
+Seborrheic Dermatitis (SD),P_343,SD (60),50,Female,Face,Seborrheic Dermatitis
+Seborrheic Dermatitis (SD),P_343,SD (61),50,Female,Face,Seborrheic Dermatitis
+Seborrheic Dermatitis (SD),P_344,SD (62),1,Male,Head,Seborrheic Dermatitis
+Seborrheic Dermatitis (SD),P_344,SD (63),1,Male,Head,Seborrheic Dermatitis
+Seborrheic Dermatitis (SD),P_345,SD (64),0.06,Male,Head & Forehead,Seborrheic Dermatitis
+Seborrheic Dermatitis (SD),P_345,SD (65),0.06,Male,Head & Forehead,Seborrheic Dermatitis
+Seborrheic Dermatitis (SD),P_345,SD (66),0.06,Male,Head & Forehead,Seborrheic Dermatitis
+Seborrheic Dermatitis (SD),P_345,SD (67),0.06,Male,Head & Forehead,Seborrheic Dermatitis
+Seborrheic Dermatitis (SD),P_345,SD (68),0.08,Male,Head & Forehead,Seborrheic Dermatitis
+Seborrheic Dermatitis (SD),P_345,SD (69),0.06,Male,Head & Forehead,Seborrheic Dermatitis
+Seborrheic Dermatitis (SD),P_345,SD (70),0.06,Male,Head & Forehead,Seborrheic Dermatitis
+Seborrheic Dermatitis (SD),P_345,SD (71),0.06,Male,Head & Forehead,Seborrheic Dermatitis
+Seborrheic Dermatitis (SD),P_346,SD (72),65,Male,Neck,Seborrheic Dermatitis
+Seborrheic Dermatitis (SD),P_347,SD (73),25,Male,Back,Seborrheic Dermatitis
+Seborrheic Dermatitis (SD),P_347,SD (74),25,Male,Back,Seborrheic Dermatitis
+Seborrheic Dermatitis (SD),P_347,SD (75),25,Male,Back,Seborrheic Dermatitis
+Seborrheic Dermatitis (SD),P_348,SD (76),30,Female,Forearm,Seborrheic Dermatitis
+Seborrheic Dermatitis (SD),P_348,SD (77),30,Female,Forearm,Seborrheic Dermatitis
+Seborrheic Dermatitis (SD),P_348,SD (78),30,Female,Forearm,Seborrheic Dermatitis
+Seborrheic Dermatitis (SD),P_348,SD (79),30,Female,Forearm,Seborrheic Dermatitis
+Tinea Corporis (TC),P_349,TC (1),18,Female,Leg,Tinea Corporis
+Tinea Corporis (TC),P_349,TC (2),18,Female,Foot,Tinea Corporis
+Tinea Corporis (TC),P_349,TC (3),18,Female,Foot,Tinea Corporis
+Tinea Corporis (TC),P_349,TC (4),18,Female,Foot,Tinea Corporis
+Tinea Corporis (TC),P_349,TC (5),18,Female,Foot,Tinea Corporis
+Tinea Corporis (TC),P_350,TC (6),60,Female,Arm,Tinea Corporis
+Tinea Corporis (TC),P_350,TC (7),60,Female,Arm,Tinea Corporis
+Tinea Corporis (TC),P_351,TC (8),24,Female,Forearm,Tinea Corporis
+Tinea Corporis (TC),P_351,TC (9),24,Female,Forearm,Tinea Corporis
+Tinea Corporis (TC),P_351,TC (10),24,Female,Forearm,Tinea Corporis
+Tinea Corporis (TC),P_352,TC (11),40,Female,Forearm,Tinea Corporis
+Tinea Corporis (TC),P_352,TC (12),40,Female,Forearm,Tinea Corporis
+Tinea Corporis (TC),P_352,TC (13),40,Female,Forearm,Tinea Corporis
+Tinea Corporis (TC),P_353,TC (14),23,Female,Forearm,Tinea Corporis
+Tinea Corporis (TC),P_353,TC (15),23,Female,Forearm,Tinea Corporis
+Tinea Corporis (TC),P_353,TC (16),23,Female,Forearm,Tinea Corporis
+Tinea Corporis (TC),P_353,TC (17),23,Female,Forearm,Tinea Corporis
+Tinea Corporis (TC),P_353,TC (18),23,Female,Forearm,Tinea Corporis
+Tinea Corporis (TC),P_353,TC (19),23,Female,Forearm,Tinea Corporis
+Tinea Corporis (TC),P_354,TC (20),43,Female,Forearm,Tinea Corporis
+Tinea Corporis (TC),P_354,TC (21),43,Female,Forearm,Tinea Corporis
+Tinea Corporis (TC),P_355,TC (22),54,Female,Belly,Tinea Corporis
+Tinea Corporis (TC),P_355,TC (23),54,Female,Belly,Tinea Corporis
+Tinea Corporis (TC),P_355,TC (24),54,Female,Belly,Tinea Corporis
+Tinea Corporis (TC),P_356,TC (25),40,Female,Belly,Tinea Corporis
+Tinea Corporis (TC),P_356,TC (26),40,Female,Belly,Tinea Corporis
+Tinea Corporis (TC),P_356,TC (27),40,Female,Belly,Tinea Corporis
+Tinea Corporis (TC),P_356,TC (28),40,Female,Forearm,Tinea Corporis
+Tinea Corporis (TC),P_357,TC (29),60,Female,Back,Tinea Corporis
+Tinea Corporis (TC),P_357,TC (30),60,Female,Back,Tinea Corporis
+Tinea Corporis (TC),P_357,TC (31),60,Female,Back,Tinea Corporis
+Tinea Corporis (TC),P_357,TC (32),60,Female,Back,Tinea Corporis
+Tinea Corporis (TC),P_357,TC (33),60,Female,Back,Tinea Corporis
+Tinea Corporis (TC),P_358,TC (34),50,Female,Arm,Tinea Corporis
+Tinea Corporis (TC),P_359,TC (35),50,Female,Arm,Tinea Corporis
+Tinea Corporis (TC),P_358,TC (36),50,Female,Arm,Tinea Corporis
+Tinea Corporis (TC),P_359,TC (37),50,Female,Face,Tinea Corporis
+Tinea Corporis (TC),P_359,TC (38),50,Female,Face,Tinea Corporis
+Tinea Corporis (TC),P_359,TC (39),50,Female,Face,Tinea Corporis
+Tinea Corporis (TC),P_359,TC (40),50,Female,Face,Tinea Corporis
+Tinea Corporis (TC),P_359,TC (41),50,Female,Face,Tinea Corporis
+Tinea Corporis (TC),P_359,TC (42),50,Female,Face,Tinea Corporis
+Tinea Corporis (TC),P_359,TC (43),50,Female,Face,Tinea Corporis
+Tinea Corporis (TC),P_359,TC (44),50,Female,Face,Tinea Corporis
+Tinea Corporis (TC),P_359,TC (45),50,Female,Face,Tinea Corporis
+Tinea Corporis (TC),P_359,TC (46),50,Female,Face,Tinea Corporis
+Tinea Corporis (TC),P_359,TC (47),50,Female,Face,Tinea Corporis
+Tinea Corporis (TC),P_359,TC (48),50,Female,Face,Tinea Corporis
+Tinea Corporis (TC),P_359,TC (49),50,Female,Arm,Tinea Corporis
+Tinea Corporis (TC),P_359,TC (50),50,Female,Arm,Tinea Corporis
+Tinea Corporis (TC),P_359,TC (51),50,Female,Arm,Tinea Corporis
+Tinea Corporis (TC),P_359,TC (52),50,Female,Arm,Tinea Corporis
+Tinea Corporis (TC),P_360,TC (53),70,Female,Chest,Tinea Corporis
+Tinea Corporis (TC),P_361,TC (54),30,Female,Forearm,Tinea Corporis
+Tinea Corporis (TC),P_361,TC (55),30,Female,Forearm,Tinea Corporis
+Tinea Corporis (TC),P_362,TC (56),27,Female,Leg,Tinea Corporis
+Tinea Corporis (TC),P_362,TC (57),27,Female,Leg,Tinea Corporis
+Tinea Corporis (TC),P_362,TC (58),27,Female,Leg,Tinea Corporis
+Tinea Corporis (TC),P_363,TC (59),50,Female,Arm,Tinea Corporis
+Tinea Corporis (TC),P_363,TC (60),50,Female,Arm,Tinea Corporis
+Tinea Corporis (TC),P_363,TC (61),50,Female,Forearm,Tinea Corporis
+Tinea Corporis (TC),P_363,TC (62),50,Female,Forearm,Tinea Corporis
+Tinea Corporis (TC),P_364,TC (63),23,Female,Forearm,Tinea Corporis
+Tinea Corporis (TC),P_364,TC (64),23,Female,Forearm,Tinea Corporis
+Tinea Corporis (TC),P_364,TC (65),23,Female,Neck,Tinea Corporis
+Tinea Corporis (TC),P_365,TC (66),60,Female,Forearm,Tinea Corporis
+Tinea Corporis (TC),P_365,TC (67),60,Female,Forearm,Tinea Corporis
+Tinea Corporis (TC),P_365,TC (68),60,Female,Forearm,Tinea Corporis
+Tinea Corporis (TC),P_365,TC (69),60,Female,Forearm,Tinea Corporis
+Tinea Corporis (TC),P_365,TC (70),60,Female,Forearm,Tinea Corporis
+Tinea Corporis (TC),P_366,TC (71),35,Female,Belly,Tinea Corporis
+Tinea Corporis (TC),P_366,TC (72),35,Female,Belly,Tinea Corporis
+Tinea Corporis (TC),P_366,TC (73),35,Female,Belly,Tinea Corporis
+Tinea Corporis (TC),P_367,TC (74),54,Female,Back,Tinea Corporis
+Tinea Corporis (TC),P_367,TC (75),54,Female,Back,Tinea Corporis
+Tinea Corporis (TC),P_367,TC (76),54,Female,Back,Tinea Corporis
+Tinea Corporis (TC),P_367,TC (77),54,Female,Back,Tinea Corporis
+Tinea Corporis (TC),P_367,TC (78),54,Female,Back,Tinea Corporis
+Tinea Corporis (TC),P_367,TC (79),54,Female,Back,Tinea Corporis
+Tinea Corporis (TC),P_367,TC (80),54,Female,Back,Tinea Corporis
+Tinea Corporis (TC),P_368,TC (81),21,Female,Belly,Tinea Corporis
+Tinea Corporis (TC),P_368,TC (82),21,Female,Belly,Tinea Corporis
+Tinea Corporis (TC),P_369,TC (83),50,Female,Face,Tinea Corporis
+Tinea Corporis (TC),P_369,TC (84),50,Female,Face,Tinea Corporis
+Tinea Corporis (TC),P_370,TC (85),48,Female,Face,Tinea Corporis
+Tinea Corporis (TC),P_371,TC (86),60,Female,Belly,Tinea Corporis
+Tinea Corporis (TC),P_371,TC (87),60,Female,Belly,Tinea Corporis
+Tinea Corporis (TC),P_371,TC (88),60,Female,Belly,Tinea Corporis
+Tinea Corporis (TC),P_371,TC (89),60,Female,Belly,Tinea Corporis
+Tinea Corporis (TC),P_371,TC (90),60,Female,Belly,Tinea Corporis
+Tinea Corporis (TC),P_371,TC (91),60,Female,Belly,Tinea Corporis
+Tinea Corporis (TC),P_371,TC (92),60,Female,Belly,Tinea Corporis
+Tinea Corporis (TC),P_371,TC (93),60,Female,Belly,Tinea Corporis
+Tinea Corporis (TC),P_371,TC (94),60,Female,Belly,Tinea Corporis
+Tinea Corporis (TC),P_372,TC (95),23,Male,Belly,Tinea Corporis
+Tinea Corporis (TC),P_372,TC (96),23,Male,Belly,Tinea Corporis
+Tinea Corporis (TC),P_373,TC (97),36,Female,Forearm,Tinea Corporis
+Tinea Corporis (TC),P_373,TC (98),36,Female,Forearm,Tinea Corporis
+Tinea Corporis (TC),P_373,TC (99),36,Female,Forearm,Tinea Corporis
+Tinea Corporis (TC),P_373,TC (100),36,Female,Forearm,Tinea Corporis
+Tinea Corporis (TC),P_373,TC (101),36,Female,Forearm,Tinea Corporis
+Tinea Corporis (TC),P_373,TC (102),36,Female,Forearm,Tinea Corporis
+Tinea Corporis (TC),P_373,TC (103),36,Female,Forearm,Tinea Corporis
+Tinea Corporis (TC),P_373,TC (104),36,Female,Forearm,Tinea Corporis
+Tinea Corporis (TC),P_374,TC (105),35,Male,Hand,Tinea Corporis
+Tinea Corporis (TC),P_374,TC (106),35,Male,Hand,Tinea Corporis
+Tinea Corporis (TC),P_374,TC (107),35,Male,Hand,Tinea Corporis
+Tinea Corporis (TC),P_374,TC (108),35,Male,Hand,Tinea Corporis
+Tinea Corporis (TC),P_374,TC (109),35,Male,Hand,Tinea Corporis
+Tinea Corporis (TC),P_374,TC (110),35,Male,Hand,Tinea Corporis
+Tinea Corporis (TC),P_374,TC (111),35,Male,Hand,Tinea Corporis
+Tinea Corporis (TC),P_374,TC (112),35,Male,Hand,Tinea Corporis
+Tinea Corporis (TC),P_374,TC (113),35,Male,Hand,Tinea Corporis
+Tinea Corporis (TC),P_375,TC (114),36,Female,Leg,Tinea Corporis
+Tinea Corporis (TC),P_375,TC (115),36,Female,Leg,Tinea Corporis
+Tinea Corporis (TC),P_375,TC (116),36,Female,Leg,Tinea Corporis
+Tinea Corporis (TC),P_375,TC (117),36,Female,Leg,Tinea Corporis
+Tinea Corporis (TC),P_376,TC (118),44,Female,Forearm,Tinea Corporis
+Tinea Corporis (TC),P_376,TC (119),44,Female,Forearm,Tinea Corporis
+Tinea Corporis (TC),P_376,TC (120),44,Female,Forearm,Tinea Corporis
+Tinea Corporis (TC),P_377,TC (121),19,Female,Arm,Tinea Corporis
+Tinea Corporis (TC),P_377,TC (122),19,Female,Arm,Tinea Corporis
+Tinea Corporis (TC),P_377,TC (123),19,Female,Arm,Tinea Corporis
+Tinea Corporis (TC),P_377,TC (124),19,Female,Forearm,Tinea Corporis
+Tinea Corporis (TC),P_377,TC (125),19,Female,Forearm,Tinea Corporis
+Tinea Corporis (TC),P_378,TC (126),16,Male,Forearm,Tinea Corporis
+Tinea Corporis (TC),P_378,TC (127),16,Male,Forearm,Tinea Corporis
+Tinea Corporis (TC),P_378,TC (128),16,Male,Forearm,Tinea Corporis
+Tinea Corporis (TC),P_379,TC (129),14,Male,Neck,Tinea Corporis
+Tinea Corporis (TC),P_379,TC (130),14,Male,Neck,Tinea Corporis
+Tinea Corporis (TC),P_379,TC (131),14,Male,Neck,Tinea Corporis
+Tinea Corporis (TC),P_379,TC (132),14,Male,Neck,Tinea Corporis
+Tinea Corporis (TC),P_380,TC (133),9,Male,Belly,Tinea Corporis
+Tinea Corporis (TC),P_380,TC (134),9,Male,Belly,Tinea Corporis
+Tinea Corporis (TC),P_380,TC (135),9,Male,Belly,Tinea Corporis
+Tinea Corporis (TC),P_380,TC (136),9,Male,Belly,Tinea Corporis
+Tinea Corporis (TC),P_380,TC (137),9,Male,Belly,Tinea Corporis
+Tinea Corporis (TC),P_380,TC (138),9,Male,Face,Tinea Corporis
+Tinea Corporis (TC),P_380,TC (139),9,Male,Face,Tinea Corporis
+Tinea Corporis (TC),P_380,TC (140),9,Male,Face,Tinea Corporis
+Tinea Corporis (TC),P_380,TC (141),9,Male,Belly,Tinea Corporis
+Tinea Corporis (TC),P_380,TC (142),9,Male,Belly,Tinea Corporis
+Tinea Corporis (TC),P_380,TC (143),9,Male,Belly,Tinea Corporis
+Tinea Corporis (TC),P_381,TC (144),12,Male,Belly,Tinea Corporis
+Tinea Corporis (TC),P_381,TC (145),12,Male,Belly,Tinea Corporis
+Tinea Corporis (TC),P_382,TC (146),60,Female,Neck,Tinea Corporis
+Tinea Corporis (TC),P_382,TC (147),60,Female,Neck,Tinea Corporis
+Tinea Corporis (TC),P_383,TC (148),16,Male,Face,Tinea Corporis
+Tinea Corporis (TC),P_384,TC (149),70,Female,Belly,Tinea Corporis
+Tinea Corporis (TC),P_384,TC (150),70,Female,Belly,Tinea Corporis
+Tinea Corporis (TC),P_384,TC (151),70,Female,Belly,Tinea Corporis
+Tinea Corporis (TC),P_384,TC (152),70,Female,Belly,Tinea Corporis
+Tinea Corporis (TC),P_384,TC (153),70,Female,Belly,Tinea Corporis
+Tinea Corporis (TC),P_384,TC (154),70,Female,Belly,Tinea Corporis
+Tinea Corporis (TC),P_385,TC (155),6,Female,Belly,Tinea Corporis
+Tinea Corporis (TC),P_385,TC (156),6,Female,Belly,Tinea Corporis
+Tinea Corporis (TC),P_385,TC (157),6,Female,Belly,Tinea Corporis
+Tinea Corporis (TC),P_386,TC (158),45,Female,Forearm,Tinea Corporis
+Tinea Corporis (TC),P_386,TC (159),45,Female,Forearm,Tinea Corporis
+Tinea Corporis (TC),P_387,TC (160),35,Female,Leg,Tinea Corporis
+Tinea Corporis (TC),P_387,TC (161),35,Female,Leg,Tinea Corporis
+Tinea Corporis (TC),P_388,TC (162),28,Male,Leg,Tinea Corporis
+Tinea Corporis (TC),P_388,TC (163),28,Male,Leg,Tinea Corporis
+Tinea Corporis (TC),P_388,TC (164),28,Male,Leg,Tinea Corporis
+Tinea Corporis (TC),P_388,TC (165),28,Male,Leg,Tinea Corporis
+Tinea Corporis (TC),P_388,TC (166),28,Male,Leg,Tinea Corporis
+Tinea Corporis (TC),P_389,TC (167),35,Male,Underarm,Tinea Corporis
+Tinea Corporis (TC),P_389,TC (168),35,Male,Underarm,Tinea Corporis
+Tinea Corporis (TC),P_390,TC (169),29,Male,Forearm,Tinea Corporis
+Tinea Corporis (TC),P_390,TC (170),29,Male,Forearm,Tinea Corporis
+Tinea Corporis (TC),P_390,TC (171),29,Male,Forearm,Tinea Corporis
+Tinea Corporis (TC),P_390,TC (172),29,Male,Forearm,Tinea Corporis
+Tinea Corporis (TC),P_391,TC (173),27,Female,Forehead,Tinea Corporis
+Tinea Corporis (TC),P_391,TC (174),27,Female,Forehead,Tinea Corporis
+Tinea Corporis (TC),P_391,TC (175),27,Female,Forehead,Tinea Corporis
+Tinea Corporis (TC),P_392,TC (176),40,Male,Forearm,Tinea Corporis
+Tinea Corporis (TC),P_392,TC (177),40,Male,Forearm,Tinea Corporis
+Tinea Corporis (TC),P_392,TC (178),40,Male,Forearm,Tinea Corporis
+Tinea Corporis (TC),P_392,TC (179),40,Male,Forearm,Tinea Corporis
+Tinea Corporis (TC),P_392,TC (180),40,Male,Forearm,Tinea Corporis
+Tinea Corporis (TC),P_392,TC (181),40,Male,Forearm,Tinea Corporis
+Tinea Corporis (TC),P_393,TC (182),34,Female,Forearm,Tinea Corporis
+Tinea Corporis (TC),P_394,TC (183),8,Male,Belly,Tinea Corporis
+Tinea Corporis (TC),P_394,TC (184),8,Male,Belly,Tinea Corporis
+Tinea Corporis (TC),P_394,TC (185),8,Male,Belly,Tinea Corporis
+Tinea Corporis (TC),P_394,TC (186),8,Male,Belly,Tinea Corporis
+Tinea Corporis (TC),P_395,TC (187),0.3,Male,Chest,Tinea Corporis
+Tinea Corporis (TC),P_396,TC (188),26,Male,Leg,Tinea Corporis
+Tinea Corporis (TC),P_396,TC (189),26,Male,Leg,Tinea Corporis
+Tinea Corporis (TC),P_396,TC (190),26,Male,Leg,Tinea Corporis
+Tinea Corporis (TC),P_397,TC (191),21,Female,Toe,Tinea Corporis
+Tinea Corporis (TC),P_397,TC (192),21,Female,Toe,Tinea Corporis
+Tinea Corporis (TC),P_398,TC (193),16,Male,Leg,Tinea Corporis
+Tinea Corporis (TC),P_398,TC (194),16,Male,Leg,Tinea Corporis
+Tinea Corporis (TC),P_399,TC (195),37,Female,Forearm,Tinea Corporis
+Tinea Corporis (TC),P_399,TC (196),37,Female,Forearm,Tinea Corporis
+Tinea Corporis (TC),P_400,TC (197),67,Male,Forearm,Tinea Corporis
+Tinea Corporis (TC),P_400,TC (198),67,Male,Forearm,Tinea Corporis
+Tinea Corporis (TC),P_400,TC (199),67,Male,Forearm,Tinea Corporis
+Tinea Corporis (TC),P_401,TC (200),24,Male,Belly,Tinea Corporis
+Tinea Corporis (TC),P_402,TC (201),20,Male,Arm,Tinea Corporis
+Tinea Corporis (TC),P_402,TC (202),20,Male,Arm,Tinea Corporis
+Tinea Corporis (TC),P_402,TC (203),60,Male,Back,Tinea Corporis
+Tinea Corporis (TC),P_403,TC (204),60,Male,Back,Tinea Corporis
+Tinea Corporis (TC),P_403,TC (205),60,Male,Back,Tinea Corporis
+Tinea Corporis (TC),P_403,TC (206),60,Male,Back,Tinea Corporis
+Tinea Corporis (TC),P_403,TC (207),60,Male,Back,Tinea Corporis
+Tinea Corporis (TC),P_403,TC (208),60,Male,Back,Tinea Corporis
+Tinea Corporis (TC),P_403,TC (209),60,Male,Back,Tinea Corporis
+Tinea Corporis (TC),P_403,TC (210),60,Male,Back,Tinea Corporis
+Tinea Corporis (TC),P_403,TC (211),60,Male,Back,Tinea Corporis
+Tinea Corporis (TC),P_403,TC (212),60,Male,Back,Tinea Corporis
+Tinea Corporis (TC),P_404,TC (213),30,Male,Shoulder,Tinea Corporis
+Tinea Corporis (TC),P_404,TC (214),30,Male,Shoulder,Tinea Corporis
+Tinea Corporis (TC),P_405,TC (215),37,Male,Hand,Tinea Corporis
+Tinea Corporis (TC),P_405,TC (216),37,Male,Hand,Tinea Corporis
+Tinea Corporis (TC),P_406,TC (217),53,Female,Foot,Tinea Corporis
+Tinea Corporis (TC),P_406,TC (218),35,Female,Foot,Tinea Corporis
+Tinea Corporis (TC),P_407,TC (219),45,Female,Forearm,Tinea Corporis
+Tinea Corporis (TC),P_407,TC (220),45,Female,Forearm,Tinea Corporis
+Tinea Corporis (TC),P_407,TC (221),45,Female,Forearm,Tinea Corporis
+Tinea Corporis (TC),P_407,TC (222),45,Female,Forearm,Tinea Corporis
+Tinea Corporis (TC),P_408,TC (223),40,Male,Forearm,Tinea Corporis
+Tinea Corporis (TC),P_408,TC (224),40,Male,Forearm,Tinea Corporis
+Tinea Corporis (TC),P_408,TC (225),40,Male,Forearm,Tinea Corporis
+Tinea Corporis (TC),P_409,TC (226),60,Male,Shin,Tinea Corporis
+Tinea Corporis (TC),P_409,TC (227),60,Male,Shin,Tinea Corporis
+Tinea Corporis (TC),P_409,TC (228),60,Male,Shin,Tinea Corporis
+Tinea Corporis (TC),P_409,TC (229),60,Male,Shin,Tinea Corporis
+Tinea Corporis (TC),P_409,TC (230),60,Male,Shin,Tinea Corporis
+Tinea Corporis (TC),P_409,TC (231),60,Male,Shin,Tinea Corporis
+Tinea Corporis (TC),P_409,TC (232),60,Male,Shin,Tinea Corporis
+Tinea Corporis (TC),P_409,TC (233),60,Male,Shin,Tinea Corporis
+Tinea Corporis (TC),P_409,TC (234),60,Male,Shin,Tinea Corporis
+Tinea Corporis (TC),P_410,TC (235),40,Female,Arm,Tinea Corporis
+Tinea Corporis (TC),P_410,TC (236),40,Female,Arm,Tinea Corporis
+Tinea Corporis (TC),P_410,TC (237),40,Female,Arm,Tinea Corporis
+Tinea Corporis (TC),P_410,TC (238),40,Female,Arm,Tinea Corporis
+Tinea Corporis (TC),P_410,TC (239),40,Female,Forearm,Tinea Corporis
+Tinea Corporis (TC),P_410,TC (240),40,Female,Forearm,Tinea Corporis
+Tinea Corporis (TC),P_411,TC (241),6,Female,Lower Abdomen,Tinea Corporis
+Tinea Corporis (TC),P_411,TC (242),6,Female,Lower Abdomen,Tinea Corporis
+Tinea Corporis (TC),P_411,TC (243),6,Female,Lower Abdomen,Tinea Corporis
+Tinea Corporis (TC),P_411,TC (244),6,Female,Lower Abdomen,Tinea Corporis
+Tinea Corporis (TC),P_411,TC (245),6,Female,Lower Abdomen,Tinea Corporis
+Tinea Corporis (TC),P_411,TC (246),6,Female,Lower Abdomen,Tinea Corporis
+Tinea Corporis (TC),P_412,TC (247),25,Female,Belly,Tinea Corporis
+Tinea Corporis (TC),P_412,TC (248),25,Female,Belly,Tinea Corporis
+Tinea Corporis (TC),P_412,TC (249),25,Female,Belly,Tinea Corporis
+Tinea Corporis (TC),P_413,TC (250),60,Female,Face,Tinea Corporis
+Tinea Corporis (TC),P_413,TC (251),60,Female,Face,Tinea Corporis
+Tinea Corporis (TC),P_414,TC (252),63,Female,Forearm,Tinea Corporis
+Tinea Corporis (TC),P_414,TC (253),63,Female,Forearm,Tinea Corporis
+Tinea Corporis (TC),P_414,TC (254),63,Female,Forearm,Tinea Corporis
+Tinea Corporis (TC),P_414,TC (255),63,Female,Forearm,Tinea Corporis
+Tinea Corporis (TC),P_414,TC (256),63,Female,Forearm,Tinea Corporis
+Tinea Corporis (TC),P_414,TC (257),63,Female,Forearm,Tinea Corporis
+Tinea Corporis (TC),P_414,TC (258),63,Female,Forearm,Tinea Corporis
+Tinea Corporis (TC),P_414,TC (259),63,Female,Forearm,Tinea Corporis
+Tinea Corporis (TC),P_414,TC (260),63,Female,Forearm,Tinea Corporis
+Tinea Corporis (TC),P_415,TC (261),64,Female,Arm,Tinea Corporis
+Tinea Corporis (TC),P_415,TC (262),64,Female,Arm,Tinea Corporis
+Tinea Corporis (TC),P_415,TC (263),64,Female,Arm,Tinea Corporis
+Tinea Corporis (TC),P_415,TC (264),64,Female,Arm,Tinea Corporis
+Tinea Corporis (TC),P_415,TC (265),64,Female,Forearm,Tinea Corporis
+Tinea Corporis (TC),P_415,TC (266),64,Female,Hand,Tinea Corporis
+Tinea Corporis (TC),P_415,TC (267),64,Female,Hand,Tinea Corporis
+Tinea Corporis (TC),P_415,TC (268),64,Female,Hand,Tinea Corporis
+Tinea Corporis (TC),P_415,TC (269),64,Female,Hand,Tinea Corporis
+Tinea Corporis (TC),P_416,TC (270),12,Male,Chest,Tinea Corporis
+Tinea Corporis (TC),P_416,TC (271),12,Male,Chest,Tinea Corporis
+Tinea Corporis (TC),P_416,TC (272),12,Male,Chest,Tinea Corporis
+Tinea Corporis (TC),P_416,TC (273),12,Male,Shoulder,Tinea Corporis
+Tinea Corporis (TC),P_416,TC (274),12,Male,Shoulder,Tinea Corporis
+Tinea Corporis (TC),P_416,TC (275),12,Male,Neck,Tinea Corporis
